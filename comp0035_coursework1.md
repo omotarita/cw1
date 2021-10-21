@@ -61,7 +61,31 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 
 ### Report 1
 
+**List what you completed or made progress on this week (in the coursework project).**
+
+I've made a shortlist of project methodologies and will have selected an appropriate methodology for my project by the end of the day.
+
+**List what you plan to do next week (for the coursework project)**
+
+Next week, I plan on having comprehensively defined the problem my project aims to solve, by gaining a thorough understanding of the business needs that underpin my project.
+
+**Briefly describe any issues that are impeding your progress (in the coursework project).**
+
+So far, none. Just hoping to define the problem more.
+
 ### Report 2
+
+**List what you completed or made progress on this week (in the coursework project).**
+
+This week I was able to make some progress on defining the problem I intend on solving in my project, by exploring my dataset further and carrying out some research to bolster my understanding of the business/stakeholders and industries which relate to my data.
+
+**List what you plan to do next week (for the coursework project):**
+
+I plan to further explore the problem I aim to tackle in this project, by more clearly defining the problem statement, user stories and personas, to facilitate my focus and understanding of the problem at hand while I go onto the next stage of data preparation and exploration.
+
+**Briefly describe any issues that are impeding your progress (in the coursework project).**
+
+Some personal circumstances, including a COVID scare and family commitments, have meant that I've struggled with balancing my project/university work and my personal life. I expect that this will not be the case next week, and I intend on working hard over the next 4 days to catch myself up on the work I haven't been able to do.
 
 ### Report 3
 

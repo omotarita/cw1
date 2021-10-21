@@ -1,24 +1,15 @@
-# COMP0035 Coursework 1 template repository
+# COMP0035 Coursework 1 
 
-This repository contains a basic structure for coursework 1 and optionally may also be used for coursework 2.
+## Select a project methodology
 
-## Instructions for using the starter code
+The success of any project, from the simplest problem-solving exercises to the most complex endeavours, is underpinned by the methods used in carrying it out. For this reason, project management has emerged as an up and coming high demand work industry. The most successful teams and businesses value project management and methodology considerations as an unmissable first step to any project undertaking.
 
-To set up your project:
+Software engineering and data science projects are usually fairly complex and often involve lots of moving parts and dozens of team members all working towards one shared goal. In order to best align these stakeholders, an appropriate project methodology must be chosen and subsequently followed by everyone involved. And in order to do that, the team's project manager (usually someone who has expert knowledge of the target domain, as well as project management experience) must analyse and carefully consider a project's requirements against the strengths of a number of existing project methodologies.
 
-1. Clone this repository in your IDE (e.g. PyCharm, Visual Studio Code) from GitHub. Follow the help in your IDE
-   e.g. [clone a GitHub repo in PyCharm.](https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html#clone-from-GitHub)
-2. Add a virtual environment (venv). Use the instructions for your IDE
-   or [navigate to your project directory and use python.](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
-3. Install the requirements from requirements.txt. Use the instructions for your IDE
-   or [use python in your shell.](https://pip.pypa.io/en/latest/user_guide/#requirements-files).
-4. Edit .gitignore to add any config files and folders for your IDE. PyCharm, VisualStudio Code, Xcode and NetBeans have
-   already been added.
-5. [comp0035_coursework1.md](comp0035_coursework1.md) contains an outline structure of a document that you can use to write coursework 1.
-6. [comp0035_coursework2.md](comp0035_coursework2.md) contains an outline structure of a document that you can use to write coursework 2. Alternatively there is a separate assignment in GitHub classroom if you prefer to separate coursework 1 and 2.
+For this project, our team will be working with a dataset from the BFI, to answer the following question: ...
 
-Before you submit the coursework:
+The **Data-driven Scrum** method (an agile framework optimised for data science teams which integrates elements of Scrum and Kanban) stands out as the most suitable methodology for the project at hand. Given my experience using Scrum in numerous projects undertaken during internships and summer work in the past, I'm highly familiar with the way it works and felt that it permits the iteration and flexibility this project might need due to its short timeframe and its inherent volatility (due to the ever-changing climate of the film industry). The Data-driven Scrum method permits all the benefits of the traditional Scrum method, but with some added functionality:
 
-1. Replace this README.md with [comp0035_coursework1.md](comp0035_coursework1.md).
-2. Update requirements.txt with the libraries used in your project.
-3. Download the repository as a zip file from GitHub. Upload the zip file to Moodle in the coursework 1 submission assignment.
+1. Variable length duration: allows more flexibility for teams who mispredict the duration of certain tasks. The traditional Scrum method has fixed sprint lengths
+2. Reviews on an As and When: project retrospectives and item reviews happen as frequently as the team would like, as opposed to happening at the end of each iteration like in traditional Scrum
+3. Collective analysis: the entire project team contributes to any hypothesis analysis efforts - the onus doesn't fall solely on the product owner to analyse ideas which means this analysis can benefit from team members' aggregate technical expertise.
