@@ -34,6 +34,6 @@ To address this problem, I suggest a solution which takes the user input of the 
 
 To ensure the solution is effective at solving the problem at hand, I suggest focusing on addressing the following data-focused questions. In brackets I also describe the statistical processes that could be used to solve each of these questions, using our data:
 
-- *What combination of movies is the most entertaining to a user given specific preferences (their preferred genres & the ideal maximum length of marathon)?* - ***Recommendation**
-- *Which movies fit into the category of the genres they'd like to watch?* - ***Classification**
-- *How many movies of this genre can they fit into their allotted marathon time?* - ***Summation**
+- *What combination of movies is the most entertaining to a user given specific preferences (their preferred genres & the ideal maximum length of marathon)?* - **Recommendation**
+- *Which movies fit into the category of the genres they'd like to watch?* - **Classification**
+- *How many movies of this genre can they fit into their allotted marathon time?* - **Summation**
