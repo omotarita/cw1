@@ -2,8 +2,7 @@
 
 ## Technical information
 ### Repository URL
-Please add the URL to your repository below, then delete this instruction text.
-[Repository]()
+[Coursework Repository](https://github.com/omotarita/cw1)
 
 ### Set-up instructions
 
