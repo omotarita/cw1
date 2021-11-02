@@ -44,19 +44,6 @@ Please add names of your data set files in this repository below, then delete th
 [Data Exploration]()
 
 ## Weekly progress reports
-Copy and paste from Moodle or use the following structure. Delete this instruction text.
-
-What I did in the last week:
-- item
-- item
-
-What I plan to do in the next week:
-- item
-- item
-
-Issues blocking my progress (state ‘None’ if there are no issues):
-- item
-- item
 
 ### Report 1
 
