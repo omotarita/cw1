@@ -60,43 +60,43 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 
 ### Report 1
 
-**List what you completed or made progress on this week (in the coursework project).**
+**What I did in the last week**
 
 I've made a shortlist of project methodologies and will have selected an appropriate methodology for my project by the end of the day.
 
-**List what you plan to do next week (for the coursework project)**
+**What I plan to do in the next week**
 
 Next week, I plan on having comprehensively defined the problem my project aims to solve, by gaining a thorough understanding of the business needs that underpin my project.
 
-**Briefly describe any issues that are impeding your progress (in the coursework project).**
+**Issues blocking my progress**
 
 So far, none. Just hoping to define the problem more.
 
 ### Report 2
 
-**List what you completed or made progress on this week (in the coursework project).**
+**What I did in the last week**
 
 This week I was able to make some progress on defining the problem I intend on solving in my project, by exploring my dataset further and carrying out some research to bolster my understanding of the business/stakeholders and industries which relate to my data.
 
-**List what you plan to do next week (for the coursework project):**
+**What I plan to do in the next week**
 
 I plan to further explore the problem I aim to tackle in this project, by more clearly defining the problem statement, user stories and personas, to facilitate my focus and understanding of the problem at hand while I go onto the next stage of data preparation and exploration.
 
-**Briefly describe any issues that are impeding your progress (in the coursework project).**
+**Issues blocking my progress**
 
 Some personal circumstances, including a COVID scare and family commitments, have meant that I've struggled with balancing my project/university work and my personal life. I expect that this will not be the case next week, and I intend on working hard over the next 4 days to catch myself up on the work I haven't been able to do.
 
 ### Report 3
 
-**List what you completed or made progress on this week (in the coursework project).**
+**What I did in the last week**
 
 This week I caught up on last week's work (developing my problem statement and creating personas for the project). I also started cleaning up and preparing the data I'll be working with in my project. I expect that I'll be done with data preparation by the end of tomorrow
 
-**List what you plan to do next week (for the coursework project):**
+**What I plan to do in the next week**
 
 Next week, I plan on exploring my data further, as is outlined in the teaching syllabus for next week
 
-**Briefly describe any issues that are impeding your progress (in the coursework project).**
+**Issues blocking my progress**
 
 I've been ill this week which has meant that I wasn't able to make the progress I expected to. However, it feels like I'm on the mend so I expect that I'll be able to get caught up (and make a full recovery) by the end of the weekend
 
