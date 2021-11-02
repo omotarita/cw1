@@ -22,7 +22,7 @@ Although I am an avid cinemagoer my most common avenue for filmwatching is throu
 
 Netflix recently delivered a new feature "Play Something" which aims to address this issue. However it doesn't take any user input (such as questions like "movie or TV show?", "what genre?") into consideration before making a choice. This means there's an extremely high probability that the choice made by Netflix won't be something the viewer wants to watch, meaning their choice fatigue will be left unalleviated. I believe the following problem statement clearly elaborates the problem at hand, which will permit the development of a more effective solution to address it:
 
-- *The excessive amount of time it takes to pick what movies to watch often results in viewers wasting the majority of their leisure time by spending it looking for something to watch.**
+- *The excessive amount of time it takes to pick what movies to watch often results in viewers wasting the majority of their leisure time by spending it looking for something to watch.*
 
 As this problem is widespread across Netflix users, its target audience should align closely with that of the platform. According to the Consumer & Media View Survey carried out by Nielsen in 2015, approximately 89% of Netflix users are young adults (aged 18-24), with a large skew aged between 25-39.
 
@@ -34,6 +34,6 @@ To address this problem, I suggest a solution which takes the user input of the 
 
 To ensure the solution is effective at solving the problem at hand, I suggest focusing on addressing the following data-focused questions. In brackets I also describe the statistical processes that could be used to solve each of these questions, using our data:
 
-- *What combination of movies is the most entertaining to a user given specific preferences (their preferred genres & the ideal maximum length of marathon)?** - ***Recommendation****
-- *Which movies fit into the category of the genres they'd like to watch?** - ***Classification****
-- *How many movies of this genre can they fit into their allotted marathon time?** - ***Summation****
+- *What combination of movies is the most entertaining to a user given specific preferences (their preferred genres & the ideal maximum length of marathon)?* - ***Recommendation**
+- *Which movies fit into the category of the genres they'd like to watch?* - ***Classification**
+- *How many movies of this genre can they fit into their allotted marathon time?* - ***Summation**
