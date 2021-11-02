@@ -88,6 +88,19 @@ Some personal circumstances, including a COVID scare and family commitments, hav
 
 ### Report 3
 
+**List what you completed or made progress on this week (in the coursework project).**
+
+This week I caught up on last week's work (developing my problem statement and creating personas for the project). I also started cleaning up and preparing the data I'll be working with in my project. I expect that I'll be done with data preparation by the end of tomorrow
+
+**List what you plan to do next week (for the coursework project):**
+
+Next week, I plan on exploring my data further, as is outlined in the teaching syllabus for next week
+
+**Briefly describe any issues that are impeding your progress (in the coursework project).**
+
+I've been ill this week which has meant that I wasn't able to make the progress I expected to. However, it feels like I'm on the mend so I expect that I'll be able to get caught up (and make a full recovery) by the end of the weekend
+
+
 ### Report 4
 
 ## References
