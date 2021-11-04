@@ -93,3 +93,5 @@ I've been ill this week which has meant that I wasn't able to make the progress 
 ## References
 Use any [referencing style](https://library-guides.ucl.ac.uk/referencing-plagiarism/referencing-styles) that you are
 used to using in your course.
+
+Self reference from my code in grep.py from COMP0015
