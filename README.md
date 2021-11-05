@@ -37,3 +37,6 @@ To ensure the solution is effective at solving the problem at hand, I suggest fo
 - *What combination of movies is the most entertaining to a user given specific preferences (their preferred genres & the ideal maximum length of marathon)?* - **Recommendation**
 - *Which movies fit into the category of the genres they'd like to watch?* - **Classification**
 - *How many movies of this genre can they fit into their allotted marathon time?* - **Summation**
+
+(Also picking what movies are most geared to a user based on these factors (uses better data viz techniques))
+(Mention interface requirements (movie suggestions, input) and backend processes (selection) and data viz techniques (suggesting the genre they are most likely to find entertaining (given certain factors) and visualising the entertainment value of the movies we suggest))
