@@ -71,7 +71,11 @@ For this project, I've been working with two datasets:
 
 To format their data, filter out irrelevant datapoints and merge these two datasets, I wrote a [data preparation script](data_preparation.py). Here's a breakdown of the steps I followed to write the code, and consequently prepare my data for exploration.
 
-- I started off my downloading the 2001 to 2006 BFI xlsx files from their [website](https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures) and uploading them to my Google Drive. The files were formatted such that they had their data broken up into different worksheets for every month. I manually imported each worksheet into the first, leaving me with one worksheet per file which contained all the data for the year. 
+- To begin with, I thought about how I could put the two databases together. In order to request data from the TMDB database, I needed a list of movies. So I decided I would need to use the BFI data to effectively make a list of movies, then after that, I would iterate through this list to request the TMDB data I needed for each movie. 
+
+#### Preparing the BFI Movie list
+
+- I started off by downloading the 2001 to 2006 BFI xlsx files from their [website](https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures) and uploading them to my Google Drive. The files were formatted such that they had their data broken up into different worksheets for every month. I manually imported each worksheet into the first, leaving me with one worksheet per file which contained all the data for the year. 
 
 - I downloaded all 6 files as csv's and moved them to my Coursework 1 folder, the current directory. The files are named as follows: [2001_single_sheet.csv](2001_single_sheet.csv), [2002_single_sheet.csv](2002_single_sheet.csv), [2003_single_sheet.csv](2003_single_sheet.csv), [2004_single_sheet.csv](2004_single_sheet.csv), [2005_single_sheet.csv](2005_single_sheet.csv), [2006_single_sheet.csv](2006_single_sheet.csv),
 
@@ -79,13 +83,32 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 ![Code flow diagram](flow_diagram.png)
 
- described these as functions:
-    1. def 
-    2. def
+- I then thought of these steps in terms of functions and described what they each did, and their input and output on a piece of paper. The functions were **import_datasets**, **remove_extras**, **write_to_csv** and **remove_repeats**. You can read about what each of the functions does by hovering over it in [the data preparation script](data_preparation.py).
 
+- After that, I got started writing the code. I wrote the code function by function and tested each function using some edits to the main function. Once I was satisfied with the function, I moved onto the next one and commented out its test code from main. I also created a [new csv file](prepared_BFI.csv) to write the prepared BFI data to.
 
-    ..
+- When I was done writing the code to prepare the BFI data, I ran it. Once it had run, I checked the [prepared BFI data file](prepared_BFI.csv) to verify that the data looked the way I expected it to.
 
-- Once the BFI data was prepared, I started thinking about how I would get the TMDB data for each movie
+#### Bringing in the TMDB data
 
-- I started by reading the TMDB API documentation and making note of the requests I would need to get the data I wanted. I only needed two: (1) **Search and Query** to find the TMDB movie ID for each of the BFI movies, and (2) **Get Details** to get more data for each movie (I wanted the id, genre, popularity, runtime and vote_average information for each movie)
+- Once the BFI data was prepared, I started thinking about how I would get the TMDB data for each movie.
+
+- I started by reading the TMDB API documentation and making note of the requests I would need to get the data I wanted. I only needed two: (1) [Search and Query](https://developers.themoviedb.org/3/getting-started/search-and-query-for-details) to find the TMDB movie ID for each of the BFI movies, and (2) [Get Details](https://developers.themoviedb.org/3/movies/get-movie-details) which can only be accessed using the movie ID. I wanted to get more data for each movie (I was looking for the genre, popularity, runtime and vote_average information for each movie).
+
+- I broke the task down function by function, making notes on what functions I would need to pull in the TMDB data and subsequently prepare it. The functions were **search_and_query**, **write_file_ID**, **get_details** and **write_file_details**. I made them all subfunctions by wrapping them in a bigger function **concat_tmdb** to simplify the code I'd have to write in main. This function called on all its subfunctions and cleaned up the data that was output before writing it in a [new csv file](prepared_complete_data.csv). Check out the functions in [the data preparation script](data_preparation.py) to learn more about how they all work.
+
+- I wrote the code for each function. The first one was the hardest as I had never made an API request before, so it took me a short while to familiarise myself with how they work and how to convert the output from JSON to a string.
+
+- Like with the BFI prep code, I tested the functions regularly. I made [the new csv file](prepared_complete_data.csv) to write the merged BFI and TMDB data to.
+
+- When I was done writing all the functions, I wrote a function call in main. I also made a variable called sampleList which was a sample list of movies (it only had about 5 movies in it). I ran the completed [data_preparation.py](data_preparation.py) file such that it would iterate over sampleList as opposed to the [huge list of 1424 movies](prepared_BFI.csv) I made using the BFI data.
+
+- I checked the [prepared_complete_data.csv](prepared_complete_data.csv) file to confirm that the TMDB functions behaved as expected and that they merged with the BFI data the way I wanted.
+
+- Once I was satisfied with my testing, I commented out the sampleList variable and ran [data_preparation.py](data_preparation.py) on the the huge list of movies. It goes without saying that I had to fix some bugs at this stage (as I did at every stage), but it managed to run.
+
+#### Findings and Adjustments from Data Preparation
+
+- However, I was surprised to see that the [prepared_complete_data.csv](prepared_complete_data.csv) file only had about 400 movies while the [prepared_complete_data.csv](prepared_BFI.csv) file had over 1400. 
+
+- I realised that a lot of files were
