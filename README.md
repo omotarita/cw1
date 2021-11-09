@@ -66,14 +66,13 @@ For this project, I've been working with two datasets:
 1. **The British Film Institute (BFI) data** which provides a report on the top 15 most popular movies at the Box Office, their gross box office revenue and some related statistics (e.g. how many weeks they've spent on the Box Office charts, their cumulative revenue etc.)
 2. **The Movie Database (TMDB) data** which is an enormous community-built database containing an extensive set of data on almost 1 million movies. For developers, any data you need from TMDB can be requested using their API. 
 
-
-### Data Preparation steps
-
 To format their data, filter out irrelevant datapoints and merge these two datasets, I wrote a [data preparation script](data_preparation.py). Here's a breakdown of the steps I followed to write the code, and consequently prepare my data for exploration.
+
+### Data Preparation Steps
 
 - To begin with, I thought about how I could put the two databases together. In order to request data from the TMDB database, I needed a list of movies. So I decided I would need to use the BFI data to effectively make a list of movies, then after that, I would iterate through this list to request the TMDB data I needed for each movie. 
 
-#### Preparing the BFI Movie list
+#### Preparing the BFI Movie List
 
 - I started off by downloading the 2001 to 2006 BFI xlsx files from their [website](https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures) and uploading them to my Google Drive. The files were formatted such that they had their data broken up into different worksheets for every month. I manually imported each worksheet into the first, leaving me with one worksheet per file which contained all the data for the year. 
 
@@ -89,7 +88,7 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 - When I was done writing the code to prepare the BFI data, I ran it. Once it had run, I checked the [prepared BFI data file](prepared_BFI.csv) to verify that the data looked the way I expected it to.
 
-#### Bringing in the TMDB data
+#### Bringing in the TMDB Data
 
 - Once the BFI data was prepared, I started thinking about how I would get the TMDB data for each movie.
 
@@ -117,7 +116,7 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 - Ultimately, I decided to return 'vote_average' to the list of relevantDetails as I hoped to use it during the data exploration stage of the project, to compare each movie's statistics for Average Vote against its Popularity. However, I kept it such that the **write_file_details** function continued to only look for two genres per movie.
 
-### Data Preparation steps
+### Data Exploration s=Steps
 
 
 #### Code
