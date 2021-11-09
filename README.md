@@ -1,5 +1,7 @@
 # COMP0035 Coursework 1 
 
+
+
 ## Select a project methodology
 
 The success of any project, from the simplest problem-solving exercises to the most complex endeavours, is underpinned by the methods used in carrying it out. For this reason, project management has emerged as an up and coming high demand work industry. The most successful teams and businesses value project management and methodology considerations as an unmissable first step to any project undertaking.
@@ -16,17 +18,20 @@ The **Data-driven Scrum** method (an Agile framework optimised for data science 
 3. Collective analysis: the entire project team contributes to any hypothesis analysis efforts - the onus doesn't fall solely on the product owner to analyse ideas which means this analysis can benefit from team members' aggregate technical expertise.
 
 
+
 ## Defining the Business Need
 
 In order to define the business need, given the fact that my dataset quantifies information to do with the film industry, I decided to first think about my needs and wants, as a movie-viewer.
 
 Although I am an avid cinemagoer, my most common avenue for filmwatching is through online streaming platforms; specifically Netflix. The platform does a great job at simplifying the movie-viewing experience by providing viewers with everything they need from the comfort of their home. However, all of the benefits Netflix offers end up going to waste when a viewer is left stumped in the process of choosing a movie. This phenomenon, termed "choice fatigue" by the Wall Street Journal, is widespread across the internet community; as such, it provides a huge gap for new business development.
 
+
 ### Problem Statement
 
 Netflix recently delivered a new feature "Play Something" which aims to address this issue. However it doesn't take any user input (such as questions like "movie or TV show?", "what genre?") into consideration before making a choice. This means there's an extremely high probability that the choice made by Netflix won't be something the viewer wants to watch, meaning their choice fatigue will be left unalleviated. I believe the following problem statement clearly elaborates the problem at hand, which will permit the development of a more effective solution to address it:
 
-> - *The excessive amount of time it takes to pick what movies to watch often results in viewers wasting the majority of their leisure time by spending it looking for something to watch.*
+> *The excessive amount of time it takes to pick what movies to watch often results in viewers wasting the majority of their leisure time by spending it looking for something to watch.*
+
 
 ### Target Audience
 
@@ -35,6 +40,7 @@ As this problem is widespread across Netflix users, our target audience should a
 The following user persona exemplifies the target audience further:
 
 [see persona_image.png]
+
 
 ### The Product Solution
 
@@ -48,6 +54,7 @@ To ensure the solution is effective at solving the problem at hand, I suggest fo
 
 (Also picking what movies are most geared to a user based on these factors (uses better data viz techniques))
 (Mention interface requirements (movie suggestions, input) and backend processes (selection) and data viz techniques (suggesting the genre they are most likely to find entertaining (given certain factors) and visualising the entertainment value of the movies we suggest))
+
 
 
 ## Data exploration and preparation
