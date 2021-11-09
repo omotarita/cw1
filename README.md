@@ -74,3 +74,7 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 - I started off my downloading the 2001 to 2006 BFI xlsx files from their [website](https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures) and uploading them to my Google Drive. The files were formatted such that they had their data broken up into different worksheets for every month. I manually imported each worksheet into the first, leaving me with one worksheet per file which contained all the data for the year. 
 
 - I downloaded all 6 files as csv's and moved them to my Coursework 1 folder, the current directory. The files are named as follows: [2001_single_sheet.csv](2001_single_sheet.csv), [2002_single_sheet.csv](2002_single_sheet.csv), [2003_single_sheet.csv](2003_single_sheet.csv), [2004_single_sheet.csv](2004_single_sheet.csv), [2005_single_sheet.csv](2005_single_sheet.csv), [2006_single_sheet.csv](2006_single_sheet.csv),
+
+- On a piece of paper I then jotted down a rough list of things I needed to do to prepare the code. I described these as functions:
+    1. def 
+    2. def
