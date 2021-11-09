@@ -67,7 +67,7 @@ For this project, I've been working with two datasets:
 2. **The Movie Database (TMDB) data** which is an enormous community-built database containing an extensive set of data on almost 1 million movies. For developers, any data you need from TMDB can be requested using their API. 
 
 
-### Steps
+### Data Preparation steps
 
 To format their data, filter out irrelevant datapoints and merge these two datasets, I wrote a [data preparation script](data_preparation.py). Here's a breakdown of the steps I followed to write the code, and consequently prepare my data for exploration.
 
@@ -111,4 +111,15 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 - However, I was surprised to see that the [prepared_complete_data.csv](prepared_complete_data.csv) file only had about 400 movies while the [prepared_complete_data.csv](prepared_BFI.csv) file had over 1400. 
 
-- I realised that a lot of files were
+- I realised that a lot of movies had been removed due to having missing data. The issue mainly came from the **Genre 3** and **Average Vote** columns - I originally had the **write_file_details function** look for three genres for each movie, as well as the other information mentioned in the **"Bringing in the TMDB data"** section.
+
+- I changed the **write_file_details** function so that it would only look for two genres for each movie, and removed 'vote_average' from the list of relevantDetails it looked for. Upon rerunning the code, I was pleased to see that the [prepared_complete_data.csv](prepared_complete_data.csv) had hundreds more movies than it did previously
+
+- Ultimately, I decided to return 'vote_average' to the list of relevantDetails as I hoped to use it during the data exploration stage of the project, to compare each movie's statistics for Average Vote against its Popularity. However, I kept it such that the **write_file_details** function continued to only look for two genres per movie.
+
+### Data Preparation steps
+
+
+#### Code
+
+#### Findings and Adjustments from Data Exploration
