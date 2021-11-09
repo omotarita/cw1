@@ -146,7 +146,7 @@ def concat_tmdb():
             return ("error")
 
     def write_file_details(details): #Reference Tessa Xie
-        """Function to get the relevant details (id, genre, popularity, runtime), then write them into a list beginning with the movie ID"""
+        """Function to get the relevant details (id, genre, popularity, runtime, vote_average), then write them into a list beginning with the movie ID"""
        
         myMovieInfo = []
 
@@ -155,7 +155,7 @@ def concat_tmdb():
         """csvFile = open("prepared_complete_data.csv",'w')
             csvWriter = csv.writer(csvFile)"""
 
-        relevantDetails = ["original_title", "id", "genres", "popularity", "runtime"]
+        relevantDetails = ["original_title", "id", "genres", "popularity", "runtime", "vote_average"]
         n = 0
             
         for parameter in relevantDetails:
@@ -191,7 +191,7 @@ def concat_tmdb():
         step+=1
         progress = (step/len(movieTitleList))*100
         if progress < 100:
-            print(f"{progress:.2f}%")
+            print(f"{progress:.2f}%", end = "\r")
         else:
             print(f"{progress}% - Done!")
         
@@ -199,7 +199,7 @@ def concat_tmdb():
 
     API_key = 'd84d20a84506bc77b4408e3a43fbba95' #For safekeeping
 
-    df2 = pd.DataFrame (allMovieInfo, columns = ['Title', 'TMDB Movie ID', 'Genre 1', 'Genre 2', 'Popularity (%)', 'Runtime (minutes)'])
+    df2 = pd.DataFrame (allMovieInfo, columns = ['Title', 'TMDB Movie ID', 'Genre 1', 'Genre 2', 'Popularity (%)', 'Runtime (minutes)', 'Average Vote'])
     df1 = pd.read_csv('prepared_BFI.csv', skiprows=0)
 
 

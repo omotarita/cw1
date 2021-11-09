@@ -45,18 +45,32 @@ The following user persona exemplifies the target audience further:
 
 ### The Product Solution
 
-To address this problem, I suggest a solution which requests the user input of the time they have set aside for movie watching and genre preferences and returns a list of movies to match. In line with our target audience's preference for internet streaming, the solution should come in the form of a web-app to maintain the same level of convenience Netflix users are used to in their streaming experience.
+To address this problem, I suggest a solution which requests the user input of their movie genre preferences and time they have set aside for watching and returns a list of movies to match. However, if a user is really stumped for choice and has no genre preferences nor time limit, the app will show them a data visualisation highlighting the genres they are most likely to find entertaining and prompt them again for their genre preferences. In response, users can either select one of these genres and be shown a list of movies that match or they can decline to choose (by pressing the "Choose for me" button); in this case, the web-app would make a random selection of movies and visualise their entertainment value.
+
+In line with our target audience's preference for internet streaming, the solution should come in the form of a web-app to maintain the same level of convenience Netflix users are used to in their streaming experience.
 
 To ensure the solution is effective at solving the problem at hand, I suggest focusing on addressing the following data-focused questions. In brackets I also describe the statistical processes that could be used to solve each of these questions, using our data:
 
 - *What combination of movies is the most entertaining to a user given specific preferences (their preferred genres & the ideal maximum length of marathon)?* - **Recommendation**
+- *Is there a correlation between movie genre and movie popularity? What are the most popular movie genres?* - **Regression**
+- *What are the most popular movies within each genre?* - **Regression**
 - *Which movies fit into the category of the genres they'd like to watch?* - **Classification**
 - *How many movies of this genre can they fit into their allotted marathon time?* - **Summation**
-
-(Also picking what movies are most geared to a user based on these factors (uses better data viz techniques))
-(Mention interface requirements (movie suggestions, input) and backend processes (selection) and data viz techniques (suggesting the genre they are most likely to find entertaining (given certain factors) and visualising the entertainment value of the movies we suggest))
 
 
 
 ## Data exploration and preparation
 
+For this project, I've been working with two datasets: 
+
+1. **The British Film Institute (BFI) data** which provides a report on the top 15 most popular movies at the Box Office, their gross box office revenue and some related statistics (e.g. how many weeks they've spent on the Box Office charts, their cumulative revenue etc.)
+2. **The Movie Database (TMDB) data** which is an enormous community-built database containing an extensive set of data on almost 1 million movies. For developers, any data you need from TMDB can be requested using their API. 
+
+
+### Steps
+
+To format their data, filter out irrelevant datapoints and merge these two datasets, I wrote a [data preparation script](data_preparation.py). Here's a breakdown of the steps I followed to write the code, and consequently prepare my data for exploration.
+
+- I started off my downloading the 2001 to 2006 BFI xlsx files from their [website](https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures) and uploading them to my Google Drive. The files were formatted such that they had their data broken up into different worksheets for every month. I manually imported each worksheet into the first, leaving me with one worksheet per file which contained all the data for the year. 
+
+- I downloaded all 6 files as csv's and moved them to my Coursework 1 folder, the current directory. The files are named as follows: [2001_single_sheet.csv](2001_single_sheet.csv), [2002_single_sheet.csv](2002_single_sheet.csv), [2003_single_sheet.csv](2003_single_sheet.csv), [2004_single_sheet.csv](2004_single_sheet.csv), [2005_single_sheet.csv](2005_single_sheet.csv), [2006_single_sheet.csv](2006_single_sheet.csv),
