@@ -40,7 +40,7 @@ As this problem is widespread across Netflix users, our target audience should a
 
 The following user persona exemplifies the target audience further:
 
-[see persona_image.png]
+![Persona Image](user_persona.png)
 
 
 ### The Product Solution
@@ -75,6 +75,17 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 - I downloaded all 6 files as csv's and moved them to my Coursework 1 folder, the current directory. The files are named as follows: [2001_single_sheet.csv](2001_single_sheet.csv), [2002_single_sheet.csv](2002_single_sheet.csv), [2003_single_sheet.csv](2003_single_sheet.csv), [2004_single_sheet.csv](2004_single_sheet.csv), [2005_single_sheet.csv](2005_single_sheet.csv), [2006_single_sheet.csv](2006_single_sheet.csv),
 
-- On a piece of paper I then jotted down a rough list of things I needed to do to prepare the code. I described these as functions:
+- On a piece of paper I then jotted down a rough code flowchart of the processes that needed to happen in order to prepare the BFI data. It looked like this
+
+![Code flow diagram](flow_diagram.png)
+
+ described these as functions:
     1. def 
     2. def
+
+
+    ..
+
+- Once the BFI data was prepared, I started thinking about how I would get the TMDB data for each movie
+
+- I started by reading the TMDB API documentation and making note of the requests I would need to get the data I wanted. I only needed two: (1) **Search and Query** to find the TMDB movie ID for each of the BFI movies, and (2) **Get Details** to get more data for each movie (I wanted the id, genre, popularity, runtime and vote_average information for each movie)
