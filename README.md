@@ -70,7 +70,7 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 ### Data Preparation Steps
 
-- To begin with, I thought about how I could put the two databases together. In order to request data from the TMDB database, I needed a list of movies. So I decided I would need to use the BFI data to effectively make a list of movies, then after that, I would iterate through this list to request the TMDB data I needed for each movie. 
+To begin with, I thought about how I could put the two databases together. In order to request data from the TMDB database, I needed a list of movies. So I decided I would need to use the BFI data to effectively make a list of movies, then after that, I would iterate through this list to request the TMDB data I needed for each movie. 
 
 #### Preparing the BFI Movie List
 
@@ -100,7 +100,7 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 - Like with the BFI prep code, I tested the functions regularly. I made [the new csv file](prepared_complete_data.csv) to write the merged BFI and TMDB data to.
 
-- When I was done writing all the functions, I wrote a function call in main. I also made a variable called sampleList which was a sample list of movies (it only had about 5 movies in it). I ran the completed [data_preparation.py](data_preparation.py) file such that it would iterate over sampleList as opposed to the [huge list of 1424 movies](prepared_BFI.csv) I made using the BFI data.
+- When I was done writing all the functions, I wrote a function call in main. I also made a variable called sampleList which was a sample list of movies (it only had about 5 movies in it). I ran the completed [data_preparation.py](data_preparation.py) file such that it would iterate over sampleList as opposed to the [huge list](prepared_BFI.csv) of 1424 movies I made using the BFI data.
 
 - I checked the [prepared_complete_data.csv](prepared_complete_data.csv) file to confirm that the TMDB functions behaved as expected and that they merged with the BFI data the way I wanted.
 
@@ -114,9 +114,9 @@ To format their data, filter out irrelevant datapoints and merge these two datas
 
 - I changed the **write_file_details** function so that it would only look for two genres for each movie, and removed 'vote_average' from the list of relevantDetails it looked for. Upon rerunning the code, I was pleased to see that the [prepared_complete_data.csv](prepared_complete_data.csv) had hundreds more movies than it did previously
 
-- Ultimately, I decided to return 'vote_average' to the list of relevantDetails as I hoped to use it during the data exploration stage of the project, to compare each movie's statistics for Average Vote against its Popularity. However, I kept it such that the **write_file_details** function continued to only look for two genres per movie.
+- Ultimately, I decided to return 'vote_average' to the list of relevantDetails as I hoped to use it during the data exploration stage of the project, to compare each movie's statistics for Average Vote against its Popularity. However, I kept it such that the **write_file_details** function continued to only look for two genres per movie. Although I ended up with fewer movies than the original 1400, I think 700 is more than enough to produce a reliable data visualisation
 
-### Data Exploration s=Steps
+### Data Exploration Steps
 
 
 #### Code
