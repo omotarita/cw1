@@ -118,6 +118,25 @@ To begin with, I thought about how I could put the two databases together. In or
 
 ### Data Exploration Steps
 
+I didn't plan out any steps for my data exploration. Instead, I decided to use a number of pandas functions to extract information from my data, in order to improve my understanding of it.
+
+I wrote a [data exploration script](data_exploration.py) where I created functions to explore some of the things I wanted to find out about my data:
+
+**import_prepared_data**: This function simply imported my [prepared dataset](prepared_complete_data.csv)
+
+**tidy_for_exploration**: This function tidied up the data by removing some of the columns I didn't really need and renamed a column. I tested out a command that removed movies with an average vote of less than 4, but I ultimately commented that out as I didn't want it to affect the overall statistics for the average vote. I also ran a command that checked for missing values, but once I saw there were none, I commented it out.
+
+**check_types**: I ran this function a couple of times to check the types for my data then ultimately commented it out.
+
+**basic_stats**: As is written in its docstring, this function "gets and returns some quick stats on your column of choice". I called on it from a for loop in main such that the script would find the basic stats for every column with numeric data. Using this function, I was able to learn the **mean** (m), **standard deviation** (std) and **maximum value** (max) for each of the numeric columns.
+
+| Statistic | Popularity | Runtime (mins) | Average Vote |
+| :----:    |    :----:  |       :----:   | :----:       |
+| m         | 21.08      | 106.91         | 6.28         |
+| std       | 32.77      | 20.15          | 0.94         |
+| max       | 643.57     | 197.00         | 8.70         |
+  
+main
 
 #### Code
 
