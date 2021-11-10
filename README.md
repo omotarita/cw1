@@ -1,8 +1,14 @@
-# COMP0035 Coursework 1 
+# Coursework 1
 
+## Technical information
+### Repository URL
+[Coursework Repository](https://github.com/omotarita/cw1)
 
+### Set-up instructions
 
-## Select a project methodology
+All dependencies in requirements.txt should be installed in order to run the code in this repository. Use the command 'pip install ...' at Terminal to do so.
+
+## Selection of project methodology
 
 The success of any project, from the simplest problem-solving exercises to the most complex endeavours, is underpinned by the methods used in carrying it out. For this reason, project management has emerged as an up and coming high demand work industry. The most successful teams and businesses value project management and methodology considerations as an unmissable first step to any project undertaking.
 
@@ -12,29 +18,33 @@ For this project, our team will be working with a dataset from the BFI, to addre
 > *The excessive amount of time it takes to pick what movies to watch often results in viewers wasting the majority of their leisure time by spending it looking for something to watch.*
 
 
-The **Data-driven Scrum** method (an Agile framework optimised for data science teams which integrates elements of Scrum and Kanban) stands out as the most suitable methodology for the project at hand. Given my experience using Scrum in numerous projects undertaken during internships and summer work in the past, I'm highly familiar with the way it works and felt that it permits the iteration and flexibility this project might need due to its short timeframe and its inherent volatility (due to the ever-changing climate of the film industry). The Data-driven Scrum method permits all the benefits of the traditional Scrum method, but with some added functionality:
+### Methodology (or combination) selected
+
+The **Data-driven Scrum** method (an Agile framework optimised for data science teams which integrates elements of Scrum and Kanban) stands out as the most suitable methodology for the project at hand. Given my experience using Scrum in numerous projects undertaken during internships and summer work in the past, I'm highly familiar with the way it works and felt that it permits the iteration and flexibility this project might need due to its short timeframe and its inherent volatility (due to the ever-changing climate of the film industry). The Data-driven Scrum method permits all the benefits of the traditional Scrum method, but with some added functionality.
+
+
+### Selection criteria and justification of selection
 
 1. **Variable length duration**: allows more flexibility for teams who mispredict the duration of certain tasks. The traditional Scrum method has fixed sprint lengths
 2. **Reviews on an As and When basis**: project retrospectives and item reviews happen as frequently as the team would like, as opposed to happening at the end of each iteration like in traditional Scrum
 3. **Collective analysis**: the entire project team contributes to any hypothesis analysis efforts - the onus doesn't fall solely on the product owner to analyse ideas which means this analysis can benefit from team members' aggregate technical expertise.
 
 
-
-## Defining the Business Need
+## Definition of the business need
 
 In order to define the business need, given the fact that my dataset quantifies information to do with the film industry, I decided to first think about my needs and wants, as a movie-viewer.
 
 Although I am an avid cinemagoer, my most common avenue for filmwatching is through online streaming platforms; specifically Netflix. The platform does a great job at simplifying the movie-viewing experience by providing viewers with everything they need from the comfort of their home. However, all of the benefits Netflix offers end up going to waste when a viewer is left stumped in the process of choosing a movie. This phenomenon, termed "choice fatigue" by the Wall Street Journal, is widespread across the internet community; as such, it provides a huge gap for new business development.
 
 
-### Problem Statement
+### Problem definition
 
 Netflix recently delivered a new feature "Play Something" which aims to address this issue. However it doesn't take any user input (such as questions like "movie or TV show?", "what genre?") into consideration before making a choice. This means there's an extremely high probability that the choice made by Netflix won't be something the viewer wants to watch, meaning their choice fatigue will be left unalleviated. I believe the following problem statement clearly elaborates the problem at hand, which will permit the development of a more effective solution to address it:
 
 > *The excessive amount of time it takes to pick what movies to watch often results in viewers wasting the majority of their leisure time by spending it looking for something to watch.*
 
 
-### Target Audience
+### Target audience
 
 As this problem is widespread across Netflix users, our target audience should align closely with that of the platform. According to the Consumer & Media View Survey carried out by Nielsen in 2015, approximately 89% of Netflix users are young adults (aged 18-24), with a large skew aged between 25-39.
 
@@ -43,13 +53,16 @@ The following user persona exemplifies the target audience further:
 ![Persona Image](user_persona.png)
 
 
-### The Product Solution
+### Suggested web app
 
 To address this problem, I suggest a solution which requests the user input of their movie genre preferences and time they have set aside for watching and returns a list of movies to match. However, if a user is really stumped for choice and has no genre preferences nor time limit, the app will show them a data visualisation highlighting the genres they are most likely to find entertaining and prompt them again for their genre preferences. In response, users can either select one of these genres and be shown a list of movies that match or they can decline to choose (by pressing the "Choose for me" button); in this case, the web-app would make a random selection of movies and visualise their entertainment value.
 
 In line with our target audience's preference for internet streaming, the solution should come in the form of a web-app to maintain the same level of convenience Netflix users are used to in their streaming experience.
 
 To ensure the solution is effective at solving the problem at hand, I suggest focusing on addressing the following data-focused questions. In brackets I also describe the statistical processes that could be used to solve each of these questions, using our data:
+
+
+### Questions to be answered using the dataset
 
 - *What combination of movies is the most entertaining to a user given specific preferences (their preferred genres & the ideal maximum length of marathon)?* - **Recommendation**
 - *Is there a correlation between movie genre and movie popularity? What are the most popular movie genres?* - **Regression**
@@ -58,8 +71,8 @@ To ensure the solution is effective at solving the problem at hand, I suggest fo
 - *How many movies of this genre can they fit into their allotted marathon time?* - **Summation**
 
 
-
-## Data exploration and preparation
+## Data preparation and exploration
+### Data preparation
 
 For this project, I've been working with two datasets: 
 
@@ -106,6 +119,7 @@ To begin with, I thought about how I could put the two databases together. In or
 
 - Once I was satisfied with my testing, I commented out the sampleList variable and ran [data_preparation.py](data_preparation.py) on the the huge list of movies. It goes without saying that I had to fix some bugs at this stage (as I did at every stage), but it managed to run.
 
+
 #### Findings and Adjustments from Data Preparation
 
 - However, I was surprised to see that the [prepared_complete_data.csv](prepared_complete_data.csv) file only had about 400 movies while the [prepared_complete_data.csv](prepared_BFI.csv) file had over 1400. 
@@ -116,7 +130,14 @@ To begin with, I thought about how I could put the two databases together. In or
 
 - Ultimately, I decided to return 'vote_average' to the list of relevantDetails as I hoped to use it during the data exploration stage of the project, to compare each movie's statistics for Average Vote against its Popularity. However, I kept it such that the **write_file_details** function continued to only look for two genres per movie. Although I ended up with fewer movies than the original 1400, I think 700 is more than enough to produce a reliable data visualisation
 
-### Data Exploration Discoveries
+
+[Data Preparation](data_preparation.py)
+
+#### Prepared data set
+Original data sets: [2001 file](2001_single_sheet.csv), [2002 file](2002_single_sheet.csv), [2003 file](2003_single_sheet.csv), [2004 file](2004_single_sheet.csv), [2005 file](2005_single_sheet.csv) and [2006 file](2006_single_sheet.csv)
+[Prepared data set](prepared_complete_data.csv)
+
+### Data exploration
 
 I didn't plan out any steps for my data exploration. Instead, I decided to use a number of pandas functions to extract information from my data, in order to improve my understanding of it.
 
@@ -147,3 +168,74 @@ The scatter graph shows a major cluster of datapoints in the bottom right of the
 ![Regraphed](regraphed.png)
 
 This graph showed demonstrated that most of the movies listed in the [prepared dataset](prepared_complete_data.csv) have an average vote which falls between 4 and 8 out of 10, and very few movies exceed a popularity rating of around 100.
+
+
+[Data Exploration](data_exploration.py)
+
+## Weekly progress reports
+
+### Report 1
+
+**What I did in the last week**
+
+I've made a shortlist of project methodologies and will have selected an appropriate methodology for my project by the end of the day.
+
+**What I plan to do in the next week**
+
+Next week, I plan on having comprehensively defined the problem my project aims to solve, by gaining a thorough understanding of the business needs that underpin my project.
+
+**Issues blocking my progress**
+
+So far, none. Just hoping to define the problem more.
+
+### Report 2
+
+**What I did in the last week**
+
+This week I was able to make some progress on defining the problem I intend on solving in my project, by exploring my dataset further and carrying out some research to bolster my understanding of the business/stakeholders and industries which relate to my data.
+
+**What I plan to do in the next week**
+
+I plan to further explore the problem I aim to tackle in this project, by more clearly defining the problem statement, user stories and personas, to facilitate my focus and understanding of the problem at hand while I go onto the next stage of data preparation and exploration.
+
+**Issues blocking my progress**
+
+Some personal circumstances, including a COVID scare and family commitments, have meant that I've struggled with balancing my project/university work and my personal life. I expect that this will not be the case next week, and I intend on working hard over the next 4 days to catch myself up on the work I haven't been able to do.
+
+### Report 3
+
+**What I did in the last week**
+
+This week I caught up on last week's work (developing my problem statement and creating personas for the project). I also started cleaning up and preparing the data I'll be working with in my project. I expect that I'll be done with data preparation by the end of tomorrow
+
+**What I plan to do in the next week**
+
+Next week, I plan on exploring my data further, as is outlined in the teaching syllabus for next week
+
+**Issues blocking my progress**
+
+I've been ill this week which has meant that I wasn't able to make the progress I expected to. However, it feels like I'm on the mend so I expect that I'll be able to get caught up (and make a full recovery) by the end of the weekend
+
+
+### Report 4
+
+**What I did in the last week**
+
+This week I made a lot of progress on tidying up my coursework, I got more familiar with GitHub and I caught up on my data preparation and began data exploration
+
+**What I plan to do in the next week**
+
+I plan on finishing off tidying up my coursework and generating some more data visualisations
+
+**Issues blocking my progress**
+
+None
+
+
+
+## References
+Edu, O (2021) Self reference from my code used in grep.py from COMP0015
+Chris (2021) Stack Overflow source code. https://stackoverflow.com/questions/65569901/how-create-a-dataframe-from-a-csv-file-using-only-certain-lines)
+Xie, T (2021) Towards Data Science source code (Version 2.0) [Source code]. https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af
+
+

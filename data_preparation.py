@@ -1,7 +1,7 @@
 # Write code that prepares your 
 import pandas as pd
 import numpy as np
-import requests, json, csv, os #Reference Tessa Xie from Towards Data Science (https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af)
+import requests, json, csv, os
 
 
 from pandas.core.frame import DataFrame
@@ -41,7 +41,7 @@ def import_datasets(filename, worksheetName):
         dataLen = endLine - startLine - 2
 
         df = pd.read_csv(filename, header = startLine - 1, nrows = dataLen)
-        #Reference Chris from Stack Overflow (https://stackoverflow.com/questions/65569901/how-create-a-dataframe-from-a-csv-file-using-only-certain-lines)
+        #Adapted from Chris from Stack Overflow (https://stackoverflow.com/questions/65569901/how-create-a-dataframe-from-a-csv-file-using-only-certain-lines)
         dfList.insert(dex, df)
         dex+=1    # 'dex' represents the index as 'i' is already used in this loop
 
@@ -103,7 +103,7 @@ def concat_tmdb():
         movieTitleList.insert(n, movieTitle)
         n=+1
 
-    def search_and_query(movieTitle): #Reference Tessa Xie
+    def search_and_query(movieTitle): #Adapted from Tessa Xie
         """Function to pull the movie query information"""
         movieFormatted = movieTitle.replace('  ', ' ') #Replace any double spaces with single spaces
         movieFormatted = movieFormatted.replace(' ', '+')
@@ -117,7 +117,7 @@ def concat_tmdb():
         else:
             return ("error")
 
-    def write_file_ID(text): #Reference Tessa Xie
+    def write_file_ID(text): #Adapted from Tessa Xie from Towards Data Science (https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af)
         """Function to get the movie ID"""
         dataset = json.loads(text)
         """csvFile = open("prepared_complete_data.csv",'w')
@@ -131,7 +131,7 @@ def concat_tmdb():
         return movie_ID
 
     
-    def get_details(movie_ID): #Reference Tessa Xie
+    def get_details(movie_ID): #Adapted from Tessa Xie from Towards Data Science (https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af)
         """Function to pull the movie details"""
 
         query = f"https://api.themoviedb.org/3/movie/{movie_ID}?api_key=d84d20a84506bc77b4408e3a43fbba95&language=en-US"
@@ -143,7 +143,7 @@ def concat_tmdb():
         else:
             return ("error")
 
-    def write_file_details(details): #Reference Tessa Xie
+    def write_file_details(details): #Adapted from Tessa Xie from Towards Data Science (https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af)
         """Function to get the relevant details (id, genre, popularity, runtime, vote_average), then write them into a list beginning with the movie ID"""
        
         myMovieInfo = []

@@ -234,5 +234,8 @@ None
 
 
 ## References
-Self reference from my code in grep.py from COMP0015
-...
+Edu, O (2021) Self reference from my code used in grep.py from COMP0015
+Chris (2021) Stack Overflow source code. https://stackoverflow.com/questions/65569901/how-create-a-dataframe-from-a-csv-file-using-only-certain-lines)
+Xie, T (2021) Towards Data Science source code (Version 2.0) [Source code]. https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af
+
+
