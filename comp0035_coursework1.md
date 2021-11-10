@@ -133,7 +133,7 @@ To begin with, I thought about how I could put the two databases together. In or
 
 [Data Preparation Python Script](data_preparation.py)
 
-#### Prepared data set
+#### Datasets
 Original data sets: [2001 file](2001_single_sheet.csv), [2002 file](2002_single_sheet.csv), [2003 file](2003_single_sheet.csv), [2004 file](2004_single_sheet.csv), [2005 file](2005_single_sheet.csv) and [2006 file](2006_single_sheet.csv)
 
 [Prepared data set](prepared_complete_data.csv)
