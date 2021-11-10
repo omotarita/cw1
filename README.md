@@ -116,19 +116,19 @@ To begin with, I thought about how I could put the two databases together. In or
 
 - Ultimately, I decided to return 'vote_average' to the list of relevantDetails as I hoped to use it during the data exploration stage of the project, to compare each movie's statistics for Average Vote against its Popularity. However, I kept it such that the **write_file_details** function continued to only look for two genres per movie. Although I ended up with fewer movies than the original 1400, I think 700 is more than enough to produce a reliable data visualisation
 
-### Data Exploration Steps
+### Data Exploration Discoveries
 
 I didn't plan out any steps for my data exploration. Instead, I decided to use a number of pandas functions to extract information from my data, in order to improve my understanding of it.
 
 I wrote a [data exploration script](data_exploration.py) where I created functions to explore some of the things I wanted to find out about my data:
 
-**import_prepared_data**: This function simply imported my [prepared dataset](prepared_complete_data.csv)
+**def import_prepared_data()**: This function simply imported my [prepared dataset](prepared_complete_data.csv)
 
-**tidy_for_exploration**: This function tidied up the data by removing some of the columns I didn't really need and renamed a column. I tested out a command that removed movies with an average vote of less than 4, but I ultimately commented that out as I didn't want it to affect the overall statistics for the average vote. I also ran a command that checked for missing values, but once I saw there were none, I commented it out.
+**def tidy_for_exploration(df)**: This function tidied up the data by removing some of the columns I didn't really need and renamed a column. I tested out a command that removed movies with an average vote of less than 4, but I ultimately commented that out as I didn't want it to affect the overall statistics for the average vote. I also ran a command that checked for missing values, but once I saw there were none, I commented it out.
 
-**check_types**: I ran this function a couple of times to check the types for my data then ultimately commented it out.
+**def check_types()**: I ran this function a couple of times to check the types for my data then ultimately commented it out.
 
-**basic_stats**: As is written in its docstring, this function "gets and returns some quick stats on your column of choice". I called on it from a for loop in main such that the script would find the basic stats for every column with numeric data. Using this function, I was able to learn the **mean** (m), **standard deviation** (std) and **maximum value** (max) for each of the numeric columns.
+**def basic_stats(df, column)**: As is written in its docstring, this function "gets and returns some quick stats on your column of choice". I called on it from a for loop in main such that the script would find the basic stats for every column with numeric data. Using this function, I was able to learn the **mean** (m), **standard deviation** (std) and **maximum value** (max) for each of the numeric columns. I commented this out again, after taking note of these values (see below):
 
 | Statistic | Popularity | Runtime (mins) | Average Vote |
 | :----:    |    :----:  |       :----:   | :----:       |
@@ -136,8 +136,14 @@ I wrote a [data exploration script](data_exploration.py) where I created functio
 | std       | 32.77      | 20.15          | 0.94         |
 | max       | 643.57     | 197.00         | 8.70         |
   
-main
+**def main()**: Main contained the code that created the scatter graphs to visualise this data. I ran it and was shown the following graph:
 
-#### Code
+![Original Graph](graph_outliers.png)
 
-#### Findings and Adjustments from Data Exploration
+The scatter graph shows a major cluster of datapoints in the bottom right of the graph. In order to effectively "zoom in" to the graph, I decided to write a new function to remove the outliers 
+
+**def remove_outliers(df)**: This function removed the outliers. Once I had removed all the outliers, I recreated the scatter graphs:
+
+![Regraphed](regraphed.png)
+
+This graph showed demonstrated that most of the movies listed in the [prepared dataset](prepared_complete_data.csv) have an average vote which falls between 4 and 8 out of 10, and very few movies exceed a popularity rating of around 100.
