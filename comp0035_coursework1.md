@@ -131,10 +131,11 @@ To begin with, I thought about how I could put the two databases together. In or
 - Ultimately, I decided to return 'vote_average' to the list of relevantDetails as I hoped to use it during the data exploration stage of the project, to compare each movie's statistics for Average Vote against its Popularity. However, I kept it such that the **write_file_details** function continued to only look for two genres per movie. Although I ended up with fewer movies than the original 1400, I think 700 is more than enough to produce a reliable data visualisation
 
 
-[Data Preparation](data_preparation.py)
+[Data Preparation Python Script](data_preparation.py)
 
 #### Prepared data set
 Original data sets: [2001 file](2001_single_sheet.csv), [2002 file](2002_single_sheet.csv), [2003 file](2003_single_sheet.csv), [2004 file](2004_single_sheet.csv), [2005 file](2005_single_sheet.csv) and [2006 file](2006_single_sheet.csv)
+
 [Prepared data set](prepared_complete_data.csv)
 
 ### Data exploration
@@ -170,7 +171,7 @@ The scatter graph shows a major cluster of datapoints in the bottom right of the
 This graph showed demonstrated that most of the movies listed in the [prepared dataset](prepared_complete_data.csv) have an average vote which falls between 4 and 8 out of 10, and very few movies exceed a popularity rating of around 100.
 
 
-[Data Exploration](data_exploration.py)
+[Data Exploration Python Script](data_exploration.py)
 
 ## Weekly progress reports
 
@@ -235,7 +236,9 @@ None
 
 ## References
 Edu, O (2021) Self reference from my code used in grep.py from COMP0015
+
 Chris (2021) Stack Overflow source code. https://stackoverflow.com/questions/65569901 how-create-a-dataframe-from-a-csv-file-using-only-certain-lines)
+
 Xie, T (2021) Towards Data Science source code (Version 2.0) [Source code]. https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af
 
 
