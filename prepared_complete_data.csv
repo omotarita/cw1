@@ -1,5 +1,5 @@
-Title,Distr,TMDB Movie ID,Genre 1,Genre 2,Popularity (%),Runtime (minutes),Average Vote
-King Kong,UIP,254,Adventure,Drama,40.832,187.0,6.8
+Title,Distr,TMDB Movie ID,Genre 1,Genre 2,Popularity,Runtime (minutes),Average Vote (/10)
+King Kong,UIP,254,Adventure,Drama,41.627,187.0,6.8
 "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",BVI,411,Adventure,Family,90.366,143.0,7.1
 Just Friends,Momentum,10033,Comedy,Romance,27.507,96.0,6.2
 Brokeback Mountain,Entertainment,142,Drama,Romance,33.511,134.0,7.8
@@ -8,81 +8,81 @@ Cheaper by the Dozen,20th Fox,11007,Comedy,Family,18.354,98.0,6.3
 Match Point,Icon,116,Drama,Thriller,18.834,124.0,7.3
 Harry Potter and the Goblet of Fire,Warner,674,Adventure,Fantasy,226.197,157.0,7.8
 Running Scared,Entertainment,7304,Action,Crime,16.338,122.0,7.0
-Dosti,Tip Top,565927,Drama,Adventure,1.4,128.0,8.7
-The Constant Gardener,UIP,1985,Drama,Mystery,17.924,129.0,7.0
-The Family Stone,20th Fox,9043,Comedy,Drama,10.434,103.0,6.3
-Mrs Henderson Presents,Pathe,10773,Comedy,Drama,6.774,103.0,6.7
+Dosti,Tip Top,565927,Drama,Adventure,0.84,128.0,8.7
+The Constant Gardener,UIP,1985,Drama,Mystery,16.191,129.0,7.0
+The Family Stone,20th Fox,9043,Comedy,Drama,10.317,103.0,6.3
+Mrs Henderson Presents,Pathe,10773,Comedy,Drama,6.268,103.0,6.7
 Nanny McPhee,UIP,11283,Fantasy,Comedy,32.669,97.0,6.6
-Where the Truth Lies,Momentum,9729,Drama,Mystery,8.365,107.0,6.2
+Where the Truth Lies,Momentum,9729,Drama,Mystery,6.957,107.0,6.2
 Mad Hot Ballroom,Metrodome,14358,Documentary,Family,4.171,105.0,6.9
-Innocence,Artificial Eye,286971,Thriller,Mystery,4.845,96.0,4.1
+Innocence,Artificial Eye,286971,Thriller,Mystery,5.782,96.0,4.1
 Oliver Twist,Pathe,257,Crime,Drama,15.783,130.0,6.7
 Tickets,Artificial Eye,57251,Comedy,Drama,2.085,109.0,6.7
 Broken Flowers,Momentum,308,Comedy,Drama,10.047,106.0,6.9
 Jarhead,UIP,25,Drama,War,21.07,123.0,6.6
 Memoirs of a Geisha,BVI,1904,Drama,Romance,25.302,146.0,7.7
 Breakfast on Pluto,Pathe,1420,Drama,Comedy,10.547,128.0,7.2
-Cry Wolf,Optimum,10092,Horror,Thriller,9.692,90.0,5.7
-Underworld: Evolution,Entertainment,834,Fantasy,Action,37.437,106.0,6.6
+Cry Wolf,Optimum,10092,Horror,Thriller,11.706,90.0,5.7
+Underworld: Evolution,Entertainment,834,Fantasy,Action,31.337,106.0,6.6
 Get Rich or Die Tryin',UIP,10060,Drama,Crime,25.701,117.0,6.7
-Cheaper by the Dozen 2,20th Fox,9641,Comedy,Family,14.18,94.0,6.1
-Munich,UIP,612,Drama,Action,19.153,164.0,7.1
+Cheaper by the Dozen 2,20th Fox,9641,Comedy,Family,15.579,94.0,6.1
+Munich,UIP,612,Drama,Action,17.825,164.0,7.1
 Frozen,Guerilla Films,109445,Animation,Adventure,115.072,102.0,7.3
 Walk the Line,20th Fox,69,Drama,Music,21.263,136.0,7.5
 Derailed,BVI,8999,Drama,Thriller,12.414,108.0,6.3
 Chicken Little,BVI,9982,Animation,Family,32.861,81.0,5.9
 Final Destination 3,Entertainment,9286,Horror,Mystery,54.559,93.0,6.1
-Big Momma's House 2,20th Fox,11565,Comedy,Crime,25.25,99.0,5.8
-The Adventures of Greyfriars Bobby,The Works,73772,Drama,Family,4.597,104.0,5.0
-Casanova,BVI,9681,Comedy,Romance,10.693,112.0,6.5
+Big Momma's House 2,20th Fox,11565,Comedy,Crime,22.94,99.0,5.8
+The Adventures of Greyfriars Bobby,The Works,73772,Drama,Family,3.772,104.0,5.0
+Casanova,BVI,9681,Comedy,Romance,10.106,112.0,6.5
 The Piano Tuner of Earthquakes,Artificial Eye,44502,Romance,Fantasy,3.538,99.0,6.1
-Brief Encounter,Park Circus Films,851,Drama,Romance,8.779,86.0,7.8
-Date Movie,20th Fox,10073,Comedy,Romance,17.683,83.0,4.2
+Brief Encounter,Park Circus Films,851,Drama,Romance,6.568,86.0,7.8
+Date Movie,20th Fox,10073,Comedy,Romance,18.654,83.0,4.2
 Syriana,Warner,231,Drama,Thriller,10.035,128.0,6.4
 Lucky Number Slevin,Entertainment,186,Drama,Thriller,22.091,110.0,7.5
 The Weather Man,Momentum,6963,Comedy,Drama,10.645,101.0,6.1
 Last Holiday,UIP,17379,Adventure,Comedy,12.47,112.0,7.0
 The Matador,BVI,9515,Action,Comedy,11.672,96.0,6.3
 Capote,Sony,398,Crime,Drama,8.543,114.0,7.0
-The Hills Have Eyes,20th Fox,9792,Horror,Thriller,52.955,107.0,6.4
+The Hills Have Eyes,20th Fox,9792,Horror,Thriller,50.945,107.0,6.4
 The Proposition,Tartan,16608,Action,Adventure,10.039,104.0,7.1
 Two for the Money,UIP,9910,Comedy,Crime,11.325,122.0,6.1
 Evil Aliens,Contentfilm,10177,Comedy,Horror,4.234,93.0,5.5
 These Foolish Things,Swipe,56193,Comedy,Drama,2.72,107.0,6.3
 The Road to Guantanamo,Revelation,7872,Documentary,Drama,6.699,95.0,6.9
 The Pink Panther,20th Fox,12096,Comedy,Family,21.734,93.0,5.9
-V for Vendetta,Warner,752,Action,Thriller,39.431,132.0,7.9
+V for Vendetta,Warner,752,Action,Thriller,39.417,132.0,7.9
 Tsotsi,Momentum,868,Crime,Drama,7.463,94.0,6.9
-In My Country,Sony,16635,Romance,Drama,4.422,103.0,6.6
-Inside Man,UIP,388,Crime,Drama,27.397,129.0,7.4
+In My Country,Sony,16635,Romance,Drama,3.624,103.0,6.6
+Inside Man,UIP,388,Crime,Drama,24.862,129.0,7.4
 The Boys from County Clare,Lions Gate,1589,Romance,Comedy,4.877,91.0,6.2
 The Shaggy Dog,BVI,10067,Comedy,Family,11.478,98.0,4.9
-The Three Burials of Melquiades Estrada,Optimum,8053,Adventure,Crime,8.829,121.0,7.1
-The White Countess,Sony,18840,Drama,History,7.251,135.0,6.7
+The Three Burials of Melquiades Estrada,Optimum,8053,Adventure,Crime,7.826,121.0,7.1
+The White Countess,Sony,18840,Drama,History,5.4,135.0,6.7
 Shooting Dogs,Metrodome,8588,Drama,History,6.785,115.0,7.4
 She's the Man,Entertainment,9655,Comedy,Drama,23.78,105.0,6.8
-Alien Autopsy,Warner,9773,Comedy,Science Fiction,7.567,95.0,5.6
+Alien Autopsy,Warner,9773,Comedy,Science Fiction,6.737,95.0,5.6
 The Squid and the Whale,Sony,10707,Comedy,Drama,11.121,81.0,7.0
 Take the Lead,Entertainment,12763,Comedy,Music,13.069,108.0,6.9
-An American Haunting,Lionsgate,10008,Horror,Thriller,10.01,83.0,5.6
+An American Haunting,Lionsgate,10008,Horror,Thriller,9.753,83.0,5.6
 Humko Deewana Kar Gaye,UTV Comm,48569,Drama,Romance,3.829,152.0,4.9
-Junebug,Miracle,1444,Comedy,Drama,8.88,106.0,6.8
+Junebug,Miracle,1444,Comedy,Drama,8.784,106.0,6.8
 Silent Hill,Pathe,588,Horror,Mystery,45.383,125.0,6.5
-American Dreamz,UIP,9310,Comedy,Drama,7.711,107.0,4.9
-Eight Below,BVI,9036,Adventure,Drama,33.645,120.0,7.0
+American Dreamz,UIP,9310,Comedy,Drama,7.159,107.0,4.9
+Eight Below,BVI,9036,Adventure,Drama,22.799,120.0,7.0
 C.R.A.Z.Y.,Soda,11421,Drama,Comedy,6.978,127.0,7.6
 Rollin' with the Nines,Maiden Voyage,10084,Action,Crime,2.366,96.0,4.6
 U-Carmen eKhayelitsha,Tartan,79706,Music,Drama,0.659,122.0,5.7
-16 Blocks,Warner,2207,Action,Adventure,28.4,102.0,6.4
-Slither,Entertainment,9035,Horror,Science Fiction,18.245,95.0,6.5
-Mission: Impossible III,UIP,956,Adventure,Action,29.209,126.0,6.7
-Confetti,20th Fox,10111,Comedy,Romance,4.579,100.0,6.0
-The Magician,Miracle,14096,Comedy,Drama,3.45,85.0,6.5
+16 Blocks,Warner,2207,Action,Adventure,25.262,102.0,6.4
+Slither,Entertainment,9035,Horror,Science Fiction,11.989,95.0,6.5
+Mission: Impossible III,UIP,956,Adventure,Action,28.783,126.0,6.7
+Confetti,20th Fox,10111,Comedy,Romance,4.609,100.0,6.0
+The Magician,Miracle,14096,Comedy,Drama,3.91,85.0,6.5
 X-Men: The Last Stand,20th Fox,36668,Adventure,Action,1.803,104.0,6.4
 The Wild,BVI,9904,Family,Animation,52.647,95.0,5.5
 Friends with Money,Sony,8998,Comedy,Drama,11.264,88.0,5.1
-Down in the Valley,Icon,7870,Drama,Romance,5.893,112.0,5.9
-The Da Vinci Code,Sony,591,Thriller,Mystery,25.601,149.0,6.7
+Down in the Valley,Icon,7870,Drama,Romance,6.136,112.0,5.9
+The Da Vinci Code,Sony,591,Thriller,Mystery,28.092,149.0,6.7
 Poseidon,Warner,503,Adventure,Action,25.108,98.0,5.8
 United 93,UIP,9829,Drama,History,19.94,111.0,7.1
 RV,Sony,9530,Family,Comedy,22.473,99.0,5.9
@@ -90,14 +90,14 @@ Secuestro Express,BVI,25956,Drama,Action,2.797,86.0,6.6
 The Fast and the Furious: Tokyo Drift,UIP,9615,Action,Crime,9.372,104.0,6.4
 Hard Candy,Lionsgate,2652,Drama,Thriller,13.859,103.0,6.8
 Thank You for Smoking,20th Fox,9388,Comedy,Drama,14.563,92.0,7.2
-Things to Do Before You're 30,Momentum,14187,Comedy,Drama,3.201,101.0,5.6
+Things to Do Before You're 30,Momentum,14187,Comedy,Drama,3.252,101.0,5.6
 Fearless,UIP,726664,Family,Animation,29.026,89.0,6.2
 Ultraviolet,Sony,9920,Science Fiction,Action,11.228,87.0,5.2
-Aquamarine,20th Fox,14191,Fantasy,Romance,18.961,104.0,6.3
-Half Light,UIP,9756,Thriller,Horror,12.655,110.0,6.0
-Over the Hedge,UIP,7518,Family,Comedy,30.825,83.0,6.5
+Aquamarine,20th Fox,14191,Fantasy,Romance,19.846,104.0,6.3
+Half Light,UIP,9756,Thriller,Horror,11.65,110.0,6.0
+Over the Hedge,UIP,7518,Family,Comedy,28.776,83.0,6.5
 Just My Luck,20th Fox,10025,Comedy,Drama,18.072,103.0,6.1
-Reeker,Pathe,14457,Horror,Mystery,7.253,90.0,5.8
+Reeker,Pathe,14457,Horror,Mystery,7.84,90.0,5.8
 District 13,Momentum,650769,Thriller,Mystery,0.6,13.0,0.0
 Superman Returns,Warner,1452,Science Fiction,Action,38.121,154.0,5.7
 The Break-Up,UIP,9767,Romance,Comedy,19.846,106.0,5.8
@@ -105,19 +105,19 @@ Stormbreaker,Entertainment,9978,Adventure,Action,10.448,93.0,5.2
 Little Fish,Tartan,586791,Romance,Science Fiction,10.113,101.0,7.2
 Cars,BVI,920,Animation,Adventure,57.25,117.0,6.9
 Stay Alive,UIP,10069,Horror,Thriller,20.261,100.0,5.8
-Angel-A,Optimum,11227,Romance,Comedy,8.034,91.0,6.9
-Renaissance,Pathe,9389,Action,Animation,8.477,105.0,6.5
+Angel-A,Optimum,11227,Romance,Comedy,5.957,91.0,6.9
+Renaissance,Pathe,9389,Action,Animation,8.024,105.0,6.5
 Miami Vice,UIP,82,Action,Crime,19.31,132.0,5.9
-My Super Ex-Girlfriend,20th Fox,4474,Comedy,Science Fiction,11.417,95.0,5.0
+My Super Ex-Girlfriend,20th Fox,4474,Comedy,Science Fiction,12.465,95.0,5.0
 Monster House,Sony,9297,Animation,Comedy,63.153,91.0,6.6
 Nacho Libre,UIP,9353,Comedy,Family,38.626,92.0,6.2
-Lady in the Water,Warner,9697,Drama,Fantasy,11.428,110.0,5.5
-Tideland,Revolver,11559,Fantasy,Drama,8.134,120.0,6.5
+Lady in the Water,Warner,9697,Drama,Fantasy,9.716,110.0,5.5
+Tideland,Revolver,11559,Fantasy,Drama,9.222,120.0,6.5
 Wilderness,Momentum,11494,Horror,Action,7.578,94.0,6.1
 Snakes on a Plane,Entertainment,326,Action,Crime,22.12,105.0,5.3
 John Tucker Must Die,20th Fox,9293,Comedy,Romance,13.542,87.0,6.2
 Harsh Times,Pathe,7873,Crime,Drama,10.625,116.0,6.4
-A Scanner Darkly,Warner,3509,Animation,Science Fiction,15.703,100.0,6.8
+A Scanner Darkly,Warner,3509,Animation,Science Fiction,13.607,100.0,6.8
 Volver,Pathe,219,Comedy,Drama,10.533,121.0,7.5
 The Sentinel,20th Fox,5820,Action,Thriller,12.961,108.0,6.0
 Adrift,Pathe ,429300,Thriller,Romance,34.153,96.0,6.9
@@ -128,13 +128,13 @@ Snow Cake,Momentum,313,Romance,Drama,6.851,112.0,7.1
 Driving Lessons,Tartan,11404,Comedy,Drama,7.65,98.0,6.2
 The Queen,Pathe,1165,Drama,History,17.752,103.0,7.0
 The Black Dahlia,Entertainment,9676,Drama,Crime,15.499,121.0,5.7
-The Night Listener,Icon,9782,Drama,Thriller,8.624,91.0,5.6
+The Night Listener,Icon,9782,Drama,Thriller,9.546,91.0,5.6
 Little Man,Sony ,9072,Comedy,Crime,50.997,98.0,5.9
 Trust the Man,Icon,14057,Comedy,Drama,7.47,103.0,5.3
 Click,Sony ,9339,Comedy,Drama,31.137,107.0,6.2
 Children of Men,UIP,9693,Drama,Action,36.078,109.0,7.6
 Life and Lyrics,UIP,75743,Drama,Romance,1.902,99.0,5.0
-The Devil Wears Prada,20th Fox,350,Comedy,Drama,58.338,109.0,7.4
+The Devil Wears Prada,20th Fox,350,Comedy,Drama,48.353,109.0,7.4
 The Departed,Entertainment,1422,Drama,Thriller,32.237,151.0,8.2
 Nina's Heavenly Delights,Verve,12808,Romance,Comedy,5.516,94.0,6.7
 Open Season,Sony ,7484,Animation,Family,30.022,86.0,6.1
@@ -142,35 +142,35 @@ Stick It,BVI,10115,Comedy,Drama,8.602,105.0,6.8
 The Guardian,BVI,4643,Drama,Action,23.439,139.0,7.1
 The Grudge 2,UIP,1975,Horror,Thriller,26.668,102.0,5.5
 The Last Kiss,Momentum,7511,Comedy,Drama,7.282,115.0,6.0
-Marie Antoinette,Sony ,1887,Drama,History,20.284,123.0,6.6
-Brothers of the Head,Tartan,16429,Music,Drama,3.134,93.0,6.3
-Saw III,Lions Gate UK,214,Horror,Thriller,64.61,114.0,6.4
+Marie Antoinette,Sony ,1887,Drama,History,22.545,123.0,6.6
+Brothers of the Head,Tartan,16429,Music,Drama,2.822,93.0,6.3
+Saw III,Lions Gate UK,214,Horror,Thriller,53.894,114.0,6.4
 Step Up,UIP,9762,Music,Drama,31.251,104.0,6.9
 The History Boys,20th Fox,8618,Comedy,Drama,9.332,109.0,6.7
 A Good Year,20th Fox,9726,Comedy,Drama,16.507,117.0,6.7
 Red Road,Verve,11705,Drama,Thriller,6.407,113.0,6.4
 Snuff-Movie,Lions Gate,22619,Horror,Thriller,3.814,92.0,4.5
 Mischief Night,Verve,228676,Horror,Drama,6.192,87.0,5.0
-The Prestige,Warner Bros,1124,Drama,Mystery,32.546,130.0,8.2
+The Prestige,Warner Bros,1124,Drama,Mystery,30.384,130.0,8.2
 Casino Royale,Sony ,36557,Adventure,Action,53.12,144.0,7.5
-A Tiger's Tale,BVI,86547,Comedy,Drama,3.1,97.0,5.2
+A Tiger's Tale,BVI,86547,Comedy,Drama,2.645,97.0,5.2
 Hollywoodland,BVI,1249,Thriller,Crime,9.91,126.0,6.1
 Flushed Away,UIP,11619,Adventure,Animation,31.787,85.0,6.2
-Deck the Halls,20th Fox,9969,Comedy,Family,18.567,93.0,5.4
-Big Nothing,Pathe,9843,Action,Comedy,7.056,86.0,6.5
+Deck the Halls,20th Fox,9969,Comedy,Family,16.537,93.0,5.4
+Big Nothing,Pathe,9843,Action,Comedy,7.06,86.0,6.5
 London to Brighton,Vertigo,14823,Crime,Drama,4.779,85.0,6.4
 Happy Feet,Warner,9836,Animation,Comedy,52.581,108.0,6.1
 The Holiday,UIP,1581,Comedy,Romance,23.28,136.0,7.1
 The Covenant,Sony ,9954,Fantasy,Horror,15.179,97.0,5.5
 The Nativity Story,Entertainment,2447,Drama,History,18.037,101.0,6.9
 Eragon,20th Fox,2486,Fantasy,Action,25.582,104.0,5.0
-Déjà Vu,BVI,7551,Action,Thriller,23.875,126.0,6.8
+Déjà Vu,BVI,7551,Action,Thriller,19.033,126.0,6.8
 Black Christmas,Pathe,9656,Horror,Thriller,13.133,84.0,5.1
-Kabul Express,Yash Raj,30244,Action,Comedy,2.183,104.0,5.6
+Kabul Express,Yash Raj,30244,Action,Comedy,2.719,104.0,5.6
 Deep Water,Pathe,15030,Documentary,Adventure,4.393,92.0,7.3
 The West Wittering Affair,Yeh Yeh Yeh,72761,Comedy,Romance,0.6,92.0,4.0
 Night at the Museum,20th Fox,1593,Action,Adventure,25.641,108.0,6.5
-It's a Boy Girl Thing,Icon,37725,Comedy,Fantasy,10.043,95.0,6.5
+It's a Boy Girl Thing,Icon,37725,Comedy,Fantasy,11.008,95.0,6.5
 White Noise,Entertainment,11804,Drama,Horror,11.08,101.0,5.6
 Alexander,Warner,1966,War,History,26.029,175.0,5.9
 The Incredibles,BVI,9806,Action,Adventure,87.379,115.0,7.7
@@ -178,32 +178,32 @@ Lemony Snicket's A Series of Unfortunate Events,UIP,11774,Adventure,Comedy,23.37
 National Treasure,BVI,2059,Adventure,Action,26.984,131.0,6.6
 Without a Paddle,UIP,10762,Comedy,Action,8.486,95.0,5.5
 The Phantom of the Opera,Entertainment,9833,Thriller,Drama,14.663,143.0,7.3
-The Polar Express,Warner,5255,Animation,Family,74.493,100.0,6.7
-Bridget Jones: The Edge of Reason,UIP,9801,Comedy,Romance,19.53,108.0,6.3
+The Polar Express,Warner,5255,Animation,Family,83.576,100.0,6.7
+Bridget Jones: The Edge of Reason,UIP,9801,Comedy,Romance,19.382,108.0,6.3
 Blade: Trinity,Entertainment,36648,Action,Horror,45.235,123.0,5.9
 Garden State,BVI,401,Comedy,Drama,10.124,102.0,7.1
 The Merchant of Venice,Optimum,11162,Drama,Romance,9.991,132.0,6.8
 Ladies in Lavender,Entertainment,9528,Drama,Romance,7.574,104.0,6.4
 Enduring Love,Pathe,9391,Drama,Thriller,6.173,100.0,5.9
-My House in Umbria,Momentum,36730,Drama,Mystery,3.827,103.0,6.3
-My Summer of Love,Contentfilm,9709,Drama,Romance,7.997,86.0,6.1
+My House in Umbria,Momentum,36730,Drama,Mystery,4.515,103.0,6.3
+My Summer of Love,Contentfilm,9709,Drama,Romance,7.202,86.0,6.1
 Team America: World Police,UIP,3989,Adventure,Action,11.799,98.0,6.7
 Vanity Fair,UIP,11632,Drama,Romance,8.864,141.0,5.8
-Super Size Me,Tartan,9372,Documentary,Comedy,9.578,100.0,6.7
-Elektra,20th Fox,9947,Action,Fantasy,24.111,97.0,5.0
+Super Size Me,Tartan,9372,Documentary,Comedy,7.388,100.0,6.7
+Elektra,20th Fox,9947,Action,Fantasy,18.369,97.0,5.0
 Ray,UIP,1677,Drama,Music,13.555,152.0,7.4
 Ladder 49,BVI,11128,Drama,Action,19.697,115.0,6.4
-Dear Frankie,Pathe,8981,Drama,Family,7.953,105.0,7.0
+Dear Frankie,Pathe,8981,Drama,Family,7.444,105.0,7.0
 Meet the Fockers,UIP,693,Comedy,Romance,27.0,115.0,6.2
 Assault on Precinct 13,Entertainment,8978,Action,Crime,16.831,109.0,6.1
 Creep,Pathe,250574,Horror,Thriller,12.974,82.0,6.4
 Sideways,20th Fox,9675,Comedy,Drama,12.895,127.0,7.0
 2046,Tartan,844,Fantasy,Drama,12.044,128.0,7.2
-Ocean's Twelve,Warner,163,Thriller,Crime,28.055,125.0,6.5
-Racing Stripes,Momentum,6439,Comedy,Family,14.839,102.0,5.8
-The Magic Roundabout,Pathe,16455,Animation,Family,8.906,85.0,5.4
+Ocean's Twelve,Warner,163,Thriller,Crime,31.36,125.0,6.5
+Racing Stripes,Momentum,6439,Comedy,Family,14.728,102.0,5.8
+The Magic Roundabout,Pathe,16455,Animation,Family,7.588,85.0,5.4
 The SpongeBob SquarePants Movie,UIP,11836,Family,Animation,61.955,87.0,6.9
-Son of the Mask,Entertainment,10214,Fantasy,Comedy,31.467,94.0,4.2
+Son of the Mask,Entertainment,10214,Fantasy,Comedy,30.422,94.0,4.2
 Shall We Dance?,BVI,4380,Drama,Romance,17.171,107.0,6.3
 Are We There Yet?,Sony Pictures,11637,Family,Adventure,23.942,95.0,5.6
 In Good Company,Entertainment,1901,Comedy,Drama,7.994,109.0,6.0
@@ -211,87 +211,87 @@ Hide and Seek,20th Fox,11096,Horror,Mystery,19.415,101.0,6.4
 Coach Carter,UIP,7214,Drama,History,28.439,136.0,7.5
 The Life Aquatic with Steve Zissou,BVI,421,Adventure,Comedy,14.933,119.0,7.2
 Hotel Rwanda,Entertainment,205,Drama,History,27.05,121.0,7.7
-Boogeyman,UIP,8968,Thriller,Horror,11.84,89.0,5.0
+Boogeyman,UIP,8968,Thriller,Horror,10.278,89.0,5.0
 Hitch,Sony Pictures,8488,Comedy,Drama,26.482,118.0,6.5
 9 Songs,Optimum,27,Drama,Music,18.198,70.0,5.6
 Robots,20th Fox,9928,Animation,Comedy,30.985,91.0,6.4
 Constantine,Warner,561,Fantasy,Action,60.767,121.0,7.0
 Pooh's Heffalump Movie,BVI,13682,Family,Animation,14.325,68.0,6.8
-5x2,UGC,4974,Drama,Romance,6.051,90.0,6.4
+5x2,UGC,4974,Drama,Romance,5.17,90.0,6.4
 Valiant,Entertainment,14175,Family,Animation,14.402,76.0,5.5
-Melinda and Melinda,20th Fox,9688,Comedy,Drama,8.765,100.0,6.3
-Mickybo and Me,UIP,55134,Drama,Comedy,3.937,95.0,6.9
+Melinda and Melinda,20th Fox,9688,Comedy,Drama,7.067,100.0,6.3
+Mickybo and Me,UIP,55134,Drama,Comedy,3.933,95.0,6.9
 The Ring Two,UIP,10320,Drama,Horror,44.145,110.0,5.7
-Be Cool,20th Fox,4551,Comedy,Crime,11.59,118.0,5.4
+Be Cool,20th Fox,4551,Comedy,Crime,9.49,118.0,5.4
 Sahara,UIP,423453,Adventure,Animation,13.228,86.0,5.8
 The Assassination of Richard Nixon,Metrodome,842,Drama,History,7.887,95.0,6.6
-Bullet Boy,Verve,32566,Action,Crime,2.946,89.0,5.8
+Bullet Boy,Verve,32566,Action,Crime,2.674,89.0,5.8
 Man of the House,Sony Pictures,13498,Comedy,Action,12.429,100.0,5.7
-The Interpreter,UIP,179,Crime,Thriller,16.057,128.0,6.3
+The Interpreter,UIP,179,Crime,Thriller,14.861,128.0,6.3
 The Wedding Date,Entertainment,6961,Comedy,Romance,11.7,88.0,6.8
 Guess Who,20th Fox,11638,Comedy,Romance,10.17,105.0,5.9
-Cursed,BVI,10012,Horror,Comedy,49.576,97.0,5.5
+Cursed,BVI,10012,Horror,Comedy,48.188,97.0,5.5
 Beauty Shop,Verve,14177,Comedy,Romance,10.557,105.0,6.1
-Tarnation,Optimum,1435,Documentary,Drama,4.26,91.0,7.0
-Chicken Tikka Masala,Bollywood Films,31163,Comedy,Romance,2.826,90.0,4.5
+Tarnation,Optimum,1435,Documentary,Drama,4.54,91.0,7.0
+Chicken Tikka Masala,Bollywood Films,31163,Comedy,Romance,3.786,90.0,4.5
 The Hitchhiker's Guide to the Galaxy,BVI,7453,Adventure,Comedy,16.349,109.0,6.7
-Kingdom of Heaven,20th Fox,1495,Drama,Action,34.382,144.0,6.8
+Kingdom of Heaven,20th Fox,1495,Drama,Action,37.659,144.0,6.8
 Monster-in-Law,Entertainment,4379,Romance,Comedy,17.423,101.0,6.2
-The Jacket,Warner,9667,Thriller,Mystery,9.963,103.0,6.9
-A Good Woman,Vertigo,15184,Comedy,Romance,10.511,94.0,6.2
+The Jacket,Warner,9667,Thriller,Mystery,11.246,103.0,6.9
+A Good Woman,Vertigo,15184,Comedy,Romance,9.329,94.0,6.2
 Seed of Chucky,Momentum,11249,Horror,Comedy,153.256,87.0,5.4
-The Last Horror Movie,Tartan Films,25033,Horror,Thriller,2.926,76.0,5.5
-House of Wax,Warner,10066,Horror,Drama,40.057,113.0,5.8
-The Pacifier,BVI,10022,Comedy,Family,31.521,95.0,6.1
-It's All Gone Pete Tong,Redbus,12109,Drama,Comedy,5.733,90.0,6.9
+The Last Horror Movie,Tartan Films,25033,Horror,Thriller,4.096,76.0,5.5
+House of Wax,Warner,10066,Horror,Drama,34.261,113.0,5.8
+The Pacifier,BVI,10022,Comedy,Family,30.13,95.0,6.1
+It's All Gone Pete Tong,Redbus,12109,Drama,Comedy,6.862,90.0,6.9
 Sin City,BVI,187,Thriller,Action,29.377,124.0,7.4
 The League of Gentlemen's Apocalypse,UIP,19723,Horror,Comedy,5.006,87.0,6.8
 Stander,Momentum,18927,Action,Crime,5.046,116.0,6.6
 Parineeta,UTV Comm,20651,Drama,Romance,2.84,131.0,6.4
 Batman Begins,Warner,272,Action,Crime,52.931,140.0,7.7
-We Don't Live Here Anymore,Redbus,23601,Drama,Romance,6.506,101.0,5.5
-A Lot Like Love,BVI,8976,Comedy,Drama,13.618,107.0,6.8
-In My Father's Den,Optimum,1126,Drama,Mystery,4.684,126.0,7.4
-Headrush,Zanzibar,41885,Comedy,Crime,1.4,0.0,2.0
-War of the Worlds,UIP,74,Adventure,Thriller,31.101,117.0,6.5
+We Don't Live Here Anymore,Redbus,23601,Drama,Romance,5.897,101.0,5.5
+A Lot Like Love,BVI,8976,Comedy,Drama,11.295,107.0,6.8
+In My Father's Den,Optimum,1126,Drama,Mystery,3.935,126.0,7.4
+Headrush,Zanzibar,41885,Comedy,Crime,0.991,0.0,2.0
+War of the Worlds,UIP,74,Adventure,Thriller,29.517,117.0,6.5
 Yakeen,Venus,136688,Action,Thriller,1.693,116.0,5.0
 The Descent,Pathe,9392,Adventure,Horror,27.461,99.0,7.0
-Dus,Spark,58302,Action,Crime,3.738,146.0,5.1
-Madagascar,UIP,953,Family,Animation,97.77,86.0,6.9
+Dus,Spark,58302,Action,Crime,5.233,146.0,5.1
+Madagascar,UIP,953,Family,Animation,82.367,86.0,6.9
 Wedding Crashers,Entertainment,9522,Comedy,Romance,22.155,119.0,6.5
 Fantastic Four,20th Fox,166424,Action,Adventure,64.247,100.0,4.4
 Silver City,Tartan,18711,Comedy,Drama,6.003,128.0,6.1
-Charlie and the Chocolate Factory,Warner,118,Adventure,Comedy,109.068,115.0,7.0
+Charlie and the Chocolate Factory,Warner,118,Adventure,Comedy,116.162,115.0,7.0
 Stealth,Sony,10048,Science Fiction,Action,15.398,121.0,5.3
-The Skeleton Key,UIP,9913,Drama,Horror,20.63,104.0,6.6
-The Devil's Rejects,Momentum,1696,Drama,Horror,14.434,107.0,6.8
-Dear Wendy,Metrodome,10913,Comedy,Crime,4.445,105.0,5.7
+The Skeleton Key,UIP,9913,Drama,Horror,16.547,104.0,6.6
+The Devil's Rejects,Momentum,1696,Drama,Horror,15.567,107.0,6.8
+Dear Wendy,Metrodome,10913,Comedy,Crime,4.369,105.0,5.7
 The Island,Warner,1635,Action,Thriller,20.032,136.0,6.7
 The Perfect Catch,20th Fox,450679,Romance,Drama,4.188,84.0,6.6
 The Bad News Bears,UIP,23479,Family,Comedy,8.879,102.0,7.0
 Spirit Trap,Revolver,22060,Thriller,Horror,3.748,91.0,4.5
 Bewitched,Sony,9722,Comedy,Fantasy,13.021,102.0,5.0
-The Perfect Man,UIP,15648,Comedy,Drama,9.867,100.0,6.1
+The Perfect Man,UIP,15648,Comedy,Drama,11.982,100.0,6.1
 Barsaat,Tip Top,46375,Romance,Action,2.766,165.0,4.9
 Me and You and Everyone We Know,Optimum,1382,Comedy,Drama,6.01,91.0,7.0
 The Dukes of Hazzard,Warner,6519,Comedy,Adventure,15.337,104.0,5.5
-The Cave,Entertainment,9042,Action,Adventure,14.584,97.0,5.3
+The Cave,Entertainment,9042,Action,Adventure,12.94,97.0,5.3
 No Entry,Eros,20390,Comedy,Romance,4.09,164.0,6.1
-Heidi,The Works,365045,Adventure,Family,18.562,111.0,7.1
+Heidi,The Works,365045,Adventure,Family,13.291,111.0,7.1
 Red Eye,UIP,11460,Horror,Thriller,14.821,85.0,6.3
 The Business,Pathe,5145,Drama,Action,5.709,96.0,6.3
 The Longest Yard,Sony,4985,Crime,Comedy,8.275,121.0,6.7
 Cinderella Man,BVI,921,Romance,Drama,18.783,144.0,7.5
-Salaam Namaste,Yash Raj,15084,Drama,Comedy,4.787,158.0,6.0
-Wolf Creek,Optimum,9885,Horror,Thriller,17.562,104.0,6.2
+Salaam Namaste,Yash Raj,15084,Drama,Comedy,5.27,158.0,6.0
+Wolf Creek,Optimum,9885,Horror,Thriller,24.136,104.0,6.2
 Must Love Dogs,Warner,11648,Romance,Comedy,15.148,98.0,5.9
-Revolver,Redbus,10851,Drama,Thriller,13.962,111.0,6.4
+Revolver,Redbus,10851,Drama,Thriller,14.346,111.0,6.4
 Land of the Dead,UIP,11683,Horror,Science Fiction,18.925,93.0,6.2
 A History of Violence,Entertainment,59,Drama,Thriller,19.259,96.0,7.2
 Four Brothers,UIP,8292,Action,Crime,21.573,109.0,6.7
 Rock School,Icon,23825,Action,Documentary,4.454,93.0,6.2
-Serenity,UIP,16320,Science Fiction,Action,25.522,119.0,7.4
-Kinky Boots,BVI,16367,Comedy,Drama,11.358,107.0,6.7
+Serenity,UIP,16320,Science Fiction,Action,21.03,119.0,7.4
+Kinky Boots,BVI,16367,Comedy,Drama,8.206,107.0,6.7
 Night Watch,20th Fox,38651,TV Movie,Action,5.541,94.0,4.6
 Rag Tale,Metrodome,101129,Comedy,Drama,1.742,123.0,4.5
 Lord of War,Momentum,1830,Crime,Drama,35.412,122.0,7.3
@@ -302,59 +302,59 @@ The Legend of Zorro,Sony,1656,Action,Adventure,21.934,129.0,6.1
 The Brothers Grimm,BVI,4442,Adventure,Fantasy,28.034,118.0,5.8
 Elizabethtown,UIP,9621,Comedy,Drama,13.019,123.0,6.2
 In Her Shoes,20th Fox,11931,Comedy,Drama,12.725,130.0,6.1
-The Libertine,Entertainment,7548,Drama,Romance,10.319,114.0,5.9
+The Libertine,Entertainment,7548,Drama,Romance,11.8,114.0,5.9
 Factotum,Icon,10475,Comedy,Drama,6.456,94.0,6.3
-Separate Lies,20th Fox,38583,Romance,Drama,4.892,85.0,5.7
+Separate Lies,20th Fox,38583,Romance,Drama,4.156,85.0,5.7
 Flightplan,BVI,9315,Thriller,Drama,22.014,98.0,6.4
 The Exorcism of Emily Rose,Sony,8643,Crime,Drama,33.901,122.0,6.5
-Doom,UIP,8814,Action,Horror,27.525,105.0,5.1
+Doom,UIP,8814,Action,Horror,26.081,105.0,5.1
 Transporter 2,20th Fox,9335,Action,Thriller,35.379,87.0,6.3
 Neal 'n' Nikki,Yash Raj,46415,Comedy,Romance,2.666,122.0,4.1
 Bluff Master,UTV Comms,571435,Crime,Thriller,0.756,153.0,5.5
-Peter Pan,UIP,10693,Animation,Family,60.74,77.0,7.2
-Love Actually,UIP,508,Comedy,Romance,35.314,135.0,7.1
+Peter Pan,UIP,10693,Animation,Family,65.012,77.0,7.2
+Love Actually,UIP,508,Comedy,Romance,30.298,135.0,7.1
 Cold Mountain,BVI,2289,Adventure,Drama,18.535,154.0,6.9
 Freaky Friday,BVI,10330,Comedy,Family,31.313,97.0,6.4
 Elf,Entertainment,10719,Comedy,Family,24.068,97.0,6.6
-Brother Bear,BVI,10009,Adventure,Animation,78.503,85.0,7.2
-Out of Time,Momentum,2116,Thriller,Crime,19.724,105.0,6.3
+Brother Bear,BVI,10009,Adventure,Animation,71.226,85.0,7.2
+Out of Time,Momentum,2116,Thriller,Crime,17.71,105.0,6.3
 S.W.A.T.,Col/TriStar,9257,Action,Thriller,24.759,117.0,6.1
-American Splendor,Optimum,2771,Comedy,Drama,8.147,101.0,7.3
-Touching the Void,Pathe,11194,Documentary,Action,8.534,106.0,7.7
-Calendar Girls,BVI,8696,Drama,Comedy,8.562,108.0,6.6
+American Splendor,Optimum,2771,Comedy,Drama,6.223,101.0,7.3
+Touching the Void,Pathe,11194,Documentary,Action,8.531,106.0,7.7
+Calendar Girls,BVI,8696,Drama,Comedy,6.785,108.0,6.6
 Intermission,BVI,16941,Comedy,Crime,6.333,105.0,6.3
-The Mother,Momentum,59210,Drama,Romance,3.353,112.0,6.1
+The Mother,Momentum,59210,Drama,Romance,4.694,112.0,6.1
 The Shape of Things,Momentum,22958,Comedy,Drama,7.049,96.0,6.2
 The Last Samurai,Warner,616,Drama,Action,29.252,154.0,7.5
-Lost in Translation,Momentum,153,Comedy,Drama,25.259,102.0,7.4
+Lost in Translation,Momentum,153,Comedy,Drama,25.39,102.0,7.4
 In the Cut,Pathe,10944,Mystery,Thriller,8.721,119.0,5.2
 American Cousins,Bard,15312,Drama,Crime,3.347,115.0,5.7
 Paycheck,UIP,9620,Action,Adventure,17.906,119.0,6.2
-Runaway Jury,20th Fox,11329,Drama,Thriller,18.123,127.0,6.9
+Runaway Jury,20th Fox,11329,Drama,Thriller,18.469,127.0,6.9
 Girl with a Pearl Earring,Pathe,3635,Drama,Romance,11.726,101.0,6.6
 A Mighty Wind,Warner,13370,Comedy,Music,9.021,91.0,6.9
-Big Fish,Col/Tristar,587,Adventure,Fantasy,29.506,125.0,7.8
-Cold Creek Manor,BVI,12767,Mystery,Thriller,9.847,118.0,5.3
-Sylvia,Icon,28200,Drama,Romance,7.3,109.0,5.8
-The Emperor's New Clothes,Pathe,52258,Comedy,Drama,3.679,107.0,6.7
-School of Rock,UIP,1584,Comedy,Music,25.312,110.0,7.1
-Something's Gotta Give,Warner,6964,Drama,Comedy,14.791,128.0,6.6
+Big Fish,Col/Tristar,587,Adventure,Fantasy,26.277,125.0,7.8
+Cold Creek Manor,BVI,12767,Mystery,Thriller,10.978,118.0,5.3
+Sylvia,Icon,28200,Drama,Romance,7.016,109.0,5.8
+The Emperor's New Clothes,Pathe,52258,Comedy,Drama,2.303,107.0,6.7
+School of Rock,UIP,1584,Comedy,Music,19.698,110.0,7.1
+Something's Gotta Give,Warner,6964,Drama,Comedy,14.72,128.0,6.6
 The Dreamers,20th Fox,1278,Drama,Romance,22.23,112.0,7.3
-Dogville,Icon,553,Crime,Drama,18.789,178.0,7.8
-The Haunted Mansion,BVI,10756,Thriller,Fantasy,16.521,88.0,5.6
+Dogville,Icon,553,Crime,Drama,18.269,178.0,7.8
+The Haunted Mansion,BVI,10756,Thriller,Fantasy,13.979,88.0,5.6
 Looney Tunes: Back in Action,Warner,10715,Animation,Comedy,19.491,93.0,6.4
 It's All About Love,Pathe,12777,Drama,Romance,7.969,104.0,5.6
 Swimming Pool,UGC,302,Crime,Thriller,12.166,102.0,6.5
-Along Came Polly,UIP,5966,Comedy,Romance,23.382,90.0,6.0
+Along Came Polly,UIP,5966,Comedy,Romance,23.458,90.0,6.0
 The Missing,Col/TriStar,12146,Thriller,Western,10.605,135.0,6.3
 21 Grams,Icon,470,Drama,Crime,20.756,124.0,7.3
 Uptown Girls,20th Fox,14926,Family,Comedy,13.526,92.0,6.5
-Suzie Gold,Pathe,30626,Drama,Comedy,0.973,94.0,7.5
+Suzie Gold,Pathe,30626,Drama,Comedy,1.4,94.0,7.5
 Mona Lisa Smile,Col/TriStar,11820,Drama,Romance,17.228,117.0,6.9
 Starsky & Hutch,BVI,9384,Comedy,Crime,19.548,101.0,5.8
-Northfork,Metrodome,32235,Fantasy,Drama,4.712,103.0,6.1
+Northfork,Metrodome,32235,Fantasy,Drama,4.168,103.0,6.1
 One Last Chance,Momentum,123426,Comedy,Drama,1.061,96.0,6.3
-Grand Theft Parsons,Redbus,16433,Comedy,Drama,2.926,88.0,5.6
+Grand Theft Parsons,Redbus,16433,Comedy,Drama,3.44,88.0,5.6
 Dawn of the Dead,Entertainment,924,Action,Horror,36.631,101.0,7.0
 Under the Tuscan Sun,BVI,10934,Romance,Comedy,12.01,113.0,6.8
 The Station Agent,BVI,2056,Drama,Comedy,9.611,88.0,7.5
@@ -363,8 +363,8 @@ The Cat in the Hat,UIP,10588,Family,Fantasy,51.85,82.0,5.3
 Gothika,Col/TriStar,4970,Horror,Thriller,31.555,98.0,6.1
 50 First Dates,Col/TriStar,1824,Comedy,Romance,32.773,99.0,6.8
 Shaun of the Dead,UIP,747,Horror,Comedy,34.029,99.0,7.5
-The Butterfly Effect,Icon,1954,Science Fiction,Thriller,35.949,113.0,7.5
-The Girl Next Door,20th Fox,10591,Comedy,Romance,45.105,110.0,6.7
+The Butterfly Effect,Icon,1954,Science Fiction,Thriller,31.793,113.0,7.5
+The Girl Next Door,20th Fox,10591,Comedy,Romance,44.017,110.0,6.7
 Hidalgo,BVI,2023,Western,Adventure,15.556,136.0,6.8
 Song for a Raggy Boy,Contentfilm,49890,Drama,History,4.123,94.0,7.5
 Taking Lives,Warner,11081,Action,Crime,19.151,103.0,6.4
@@ -375,138 +375,138 @@ Secret Window,Col/TriStar,1586,Mystery,Thriller,34.369,96.0,6.6
 Our House,BVI,414191,Horror,Drama,10.009,90.0,5.6
 I'll Sleep When I'm Dead,Lagoon,3515,Drama,Action,7.398,97.0,5.4
 Van Helsing,UIP,7131,Horror,Adventure,47.782,132.0,6.3
-Laws of Attraction,Entertainment,11141,Comedy,Romance,9.603,90.0,5.7
-Imagining Argentina,UIP,34036,Drama,Romance,4.645,107.0,5.6
+Laws of Attraction,Entertainment,11141,Comedy,Romance,9.941,90.0,5.7
+Imagining Argentina,UIP,34036,Drama,Romance,4.748,107.0,5.6
 Troy,Warner,652,Adventure,History,54.035,163.0,7.1
 Shattered Glass,Icon,13537,Drama,History,7.878,94.0,6.9
 Bad Education,Pathe,530723,Drama,Crime,12.621,108.0,6.8
 The Day After Tomorrow,20th Fox,435,Action,Adventure,29.004,124.0,6.5
-Hum Tum,Yash Raj,793308,Romance,Drama,0.6,123.0,0.0
+Hum Tum,Yash Raj,793308,Romance,Drama,0.845,123.0,0.0
 Harry Potter and the Prisoner of Azkaban,Warner,673,Adventure,Fantasy,220.531,141.0,8.0
-Japanese Story,Tartan,13433,Drama,Romance,4.171,110.0,6.5
-Aan,Venus,118079,Action,Adventure,1.4,161.0,5.3
+Japanese Story,Tartan,13433,Drama,Romance,3.717,110.0,6.5
+Aan,Venus,118079,Action,Adventure,1.331,161.0,5.3
 Connie and Carla,UIP,15673,Music,Comedy,6.338,98.0,6.1
 Jersey Girl,BVI,9541,Comedy,Romance,11.031,102.0,6.1
-The Cooler,Tartan,10744,Romance,Drama,8.702,101.0,6.8
-The Whole Ten Yards,Warner,2122,Comedy,Thriller,17.351,98.0,5.7
-Freeze Frame,Verve,12612,Thriller,Drama,4.673,99.0,6.5
-The Ladykillers,BVI,5516,Comedy,Crime,10.329,104.0,6.1
-The Notebook,Entertainment,11036,Romance,Drama,51.677,123.0,7.9
-You Got Served,Col/TriStar,14114,Music,Drama,13.908,95.0,6.3
-Shrek 2,UIP,809,Animation,Family,127.848,93.0,7.1
-Godsend,Pathe,11058,Drama,Horror,8.716,102.0,4.9
-Club Dread,20th Fox,11217,Comedy,Horror,8.347,104.0,5.2
+The Cooler,Tartan,10744,Romance,Drama,8.306,101.0,6.8
+The Whole Ten Yards,Warner,2122,Comedy,Thriller,19.104,98.0,5.7
+Freeze Frame,Verve,12612,Thriller,Drama,3.872,99.0,6.5
+The Ladykillers,BVI,5516,Comedy,Crime,9.3,104.0,6.1
+The Notebook,Entertainment,11036,Romance,Drama,52.303,123.0,7.9
+You Got Served,Col/TriStar,14114,Music,Drama,11.837,95.0,6.3
+Shrek 2,UIP,809,Animation,Family,124.478,93.0,7.1
+Godsend,Pathe,11058,Drama,Horror,10.058,102.0,4.9
+Club Dread,20th Fox,11217,Comedy,Horror,9.503,104.0,5.2
 One for the Road,Tartan,521040,Horror,Fantasy,4.845,0.0,0.0
 Around the World in 80 Days,Entertainment,10204,Action,Adventure,22.366,120.0,5.9
-Walking Tall,20th Fox,11358,Adventure,Drama,21.414,86.0,6.3
+Walking Tall,20th Fox,11358,Adventure,Drama,24.963,86.0,6.3
 Twisted,UIP,13572,Action,Adventure,9.596,97.0,5.5
-Thunderbirds,UIP,14623,Action,Adventure,9.367,95.0,4.9
+Thunderbirds,UIP,14623,Action,Adventure,9.906,95.0,4.9
 Before Sunset,Warner,80,Drama,Romance,11.401,80.0,7.8
 King Arthur,BVI,9477,Adventure,War,25.864,126.0,6.3
 Garfield,20th Fox,8920,Animation,Comedy,92.164,80.0,5.6
-The Stepford Wives,UIP,9890,Comedy,Science Fiction,13.493,93.0,5.7
+The Stepford Wives,UIP,9890,Comedy,Science Fiction,17.025,93.0,5.7
 Anything Else,Optimum,10739,Comedy,Romance,11.284,108.0,6.2
-"I, Robot",20th Fox,2048,Action,Science Fiction,35.94,115.0,6.9
+"I, Robot",20th Fox,2048,Action,Science Fiction,34.592,115.0,6.9
 Home on the Range,BVI,13700,Animation,Family,45.064,76.0,6.0
 The Bourne Supremacy,UIP,2502,Action,Drama,29.775,108.0,7.3
 Catwoman,Warner,314,Action,Fantasy,27.928,104.0,4.6
-The Village,BVI,6947,Drama,Mystery,33.667,108.0,6.4
-Cowboys & Angels,BVI,20148,Comedy,Drama,3.178,86.0,6.5
+The Village,BVI,6947,Drama,Mystery,30.802,108.0,6.4
+Cowboys & Angels,BVI,20148,Comedy,Drama,3.508,86.0,6.5
 The Chronicles of Riddick,UIP,2789,Action,Science Fiction,16.429,119.0,6.5
 Raising Helen,BVI,4599,Drama,Comedy,10.469,119.0,6.1
 The Terminal,UIP,594,Comedy,Drama,30.149,128.0,7.3
 Hellboy,Col/TriStar,456740,Fantasy,Action,46.503,120.0,5.5
 Stage Beauty,Momentum,26108,Comedy,Romance,6.41,106.0,6.8
-Festival Express,Optimum,14770,Documentary,History,3.583,90.0,7.0
-Open Water,Redbus,83,Drama,Thriller,17.035,79.0,5.5
-Wicker Park,Momentum,11208,Drama,Mystery,12.522,114.0,6.9
+Festival Express,Optimum,14770,Documentary,History,2.548,90.0,7.0
+Open Water,Redbus,83,Drama,Thriller,17.707,79.0,5.5
+Wicker Park,Momentum,11208,Drama,Mystery,13.63,114.0,6.9
 Trauma,Warner,469722,Horror,Thriller,9.98,106.0,5.8
-Code 46,Verve,2577,Drama,Science Fiction,6.603,93.0,6.3
+Code 46,Verve,2577,Drama,Science Fiction,8.191,93.0,6.3
 Wimbledon,UIP,11823,Comedy,Romance,9.087,98.0,6.2
 Cellular,Entertainment,9759,Action,Thriller,19.338,94.0,6.4
-The Punisher,Col/TriStar,7220,Action,Crime,37.092,124.0,6.3
-Spivs,Verve,43755,Action,Comedy,1.498,95.0,4.5
+The Punisher,Col/TriStar,7220,Action,Crime,32.565,124.0,6.3
+Spivs,Verve,43755,Action,Comedy,2.036,95.0,4.5
 Saw,Entertainment,176,Horror,Mystery,75.979,103.0,7.4
 Layer Cake,Col/TriStar,4836,Drama,Thriller,16.317,105.0,7.0
 Sky Captain and the World of Tomorrow,UIP,5137,Mystery,Action,16.831,107.0,5.8
-The Life and Death of Peter Sellers,Icon,10609,Drama,Comedy,8.386,122.0,6.6
-De-Lovely,20th Fox,15237,Drama,Music,8.845,125.0,6.3
+The Life and Death of Peter Sellers,Icon,10609,Drama,Comedy,8.01,122.0,6.6
+De-Lovely,20th Fox,15237,Drama,Music,8.958,125.0,6.3
 Dead Man's Shoes,Optimum,12877,Drama,Thriller,7.843,90.0,7.2
 Resident Evil: Apocalypse,Col/TriStar,1577,Horror,Action,29.312,94.0,6.4
 Shark Tale,UIP,10555,Animation,Action,50.003,90.0,6.0
 White Chicks,Col/TriStar,12153,Comedy,Crime,72.755,109.0,6.9
-The Triumph of Love,Artificial Eye,35337,Comedy,Drama,3.567,112.0,5.8
+The Triumph of Love,Artificial Eye,35337,Comedy,Drama,3.016,112.0,5.8
 Alfie,UIP,8849,Comedy,Drama,11.607,103.0,5.7
 Exorcist: The Beginning,Warner,11026,Horror,Mystery,18.445,114.0,5.3
-House of the Dead,Redbus,11059,Horror,Action,9.743,90.0,3.1
-The Grudge,UIP,1970,Horror,Mystery,43.009,92.0,5.9
+House of the Dead,Redbus,11059,Horror,Action,8.962,90.0,3.1
+The Grudge,UIP,1970,Horror,Mystery,37.203,92.0,5.9
 Bad Santa,Col/TriStar,10147,Drama,Comedy,24.385,92.0,6.5
-Birth,Entertainment,10740,Mystery,Drama,7.844,100.0,5.9
-Fakers,Guerilla,121723,Drama,TV Movie,3.04,103.0,5.3
+Birth,Entertainment,10740,Mystery,Drama,7.679,100.0,5.9
+Fakers,Guerilla,121723,Drama,TV Movie,2.769,103.0,5.3
 Anacondas: The Hunt for the Blood Orchid,Col/TriStar,11237,Adventure,Action,37.993,96.0,5.4
-After the Sunset,Entertainment,10589,Action,Comedy,9.866,97.0,6.2
-The Manchurian Candidate,UIP,14462,Drama,Thriller,16.609,129.0,6.4
+After the Sunset,Entertainment,10589,Action,Comedy,10.982,97.0,6.2
+The Manchurian Candidate,UIP,14462,Drama,Thriller,21.743,129.0,6.4
 Taxi,20th Fox,2330,Action,Comedy,32.457,86.0,6.6
 The Forgotten,Col/TriStar,10145,Thriller,Drama,14.928,91.0,6.0
-Beyond the Sea,Entertainment,6478,Drama,Music,8.418,118.0,6.3
+Beyond the Sea,Entertainment,6478,Drama,Music,7.015,118.0,6.3
 Christmas with the Kranks,Col/TriStar,13673,Comedy,Family,29.805,99.0,6.0
-School for Seduction,Redbus,26510,Comedy,Drama,2.691,104.0,4.7
-Aaltra,Gala,12249,Comedy,Drama,2.979,92.0,6.8
+School for Seduction,Redbus,26510,Comedy,Drama,3.206,104.0,4.7
+Aaltra,Gala,12249,Comedy,Drama,3.428,92.0,6.8
 Ella Enchanted,BVI,14442,Family,Fantasy,49.172,96.0,6.4
-Raincoat,Venus,41252,Drama,Romance,2.218,120.0,7.1
-Die Another Day,Fox,36669,Adventure,Action,23.625,133.0,6.0
+Raincoat,Venus,41252,Drama,Romance,1.555,120.0,7.1
+Die Another Day,Fox,36669,Adventure,Action,33.075,133.0,6.0
 Sweet Home Alabama,BVI,11529,Comedy,Romance,14.594,108.0,6.4
-The Santa Clause 2,BVI,9021,Fantasy,Comedy,34.804,104.0,5.8
-Like Mike,Fox,21972,Comedy,Family,14.619,99.0,6.0
-The Quiet American,BVI,8198,Romance,Thriller,7.933,101.0,6.6
-Chicago,BVI,1574,Comedy,Crime,19.522,113.0,7.2
+The Santa Clause 2,BVI,9021,Fantasy,Comedy,25.722,104.0,5.8
+Like Mike,Fox,21972,Comedy,Family,15.444,99.0,6.0
+The Quiet American,BVI,8198,Romance,Thriller,7.441,101.0,6.6
+Chicago,BVI,1574,Comedy,Crime,17.929,113.0,7.2
 Dirty Pretty Things,BVI,3472,Crime,Drama,6.656,97.0,7.0
 Blood Work,Warner,9573,Crime,Thriller,11.486,110.0,6.1
-28 Days Later,Fox,170,Horror,Thriller,44.195,113.0,7.2
-Gangs of New York,Entm't,3131,Drama,History,26.28,167.0,7.3
-The Tuxedo,UIP,10771,Thriller,Action,22.717,98.0,5.7
+28 Days Later,Fox,170,Horror,Thriller,45.83,113.0,7.2
+Gangs of New York,Entm't,3131,Drama,History,24.593,167.0,7.3
+The Tuxedo,UIP,10771,Thriller,Action,19.159,98.0,5.7
 The Good Girl,Fox,9962,Drama,Comedy,11.445,93.0,6.3
-Deathwatch,Pathe,12576,Drama,Horror,6.25,94.0,5.8
+Deathwatch,Pathe,12576,Drama,Horror,6.689,94.0,5.8
 8 Mile,UIP,65,Music,Drama,33.261,110.0,7.1
-The Transporter,Fox,4108,Action,Crime,42.618,92.0,6.7
+The Transporter,Fox,4108,Action,Crime,40.244,92.0,6.7
 I Spy,Col/Tri,8427,Action,Adventure,11.639,97.0,5.4
 Ghost Ship,UIP,9645,Horror,Mystery,37.683,91.0,5.9
 About Schmidt,Entm't,2755,Drama,Comedy,9.965,125.0,6.8
 The Pianist,Pathe,423,Drama,War,37.673,150.0,8.4
-Catch Me If You Can,UIP,640,Drama,Crime,44.442,141.0,7.9
-Two Weeks Notice,Warner,2642,Comedy,Romance,21.464,101.0,6.3
+Catch Me If You Can,UIP,640,Drama,Crime,40.067,141.0,7.9
+Two Weeks Notice,Warner,2642,Comedy,Romance,18.221,101.0,6.3
 Final Destination 2,Entm't,9358,Horror,Mystery,50.266,90.0,6.2
-Daredevil,Fox,9480,Fantasy,Action,31.997,103.0,5.2
+Daredevil,Fox,9480,Fantasy,Action,35.951,103.0,5.2
 Treasure Planet,BVI,9016,Adventure,Animation,46.22,95.0,7.5
 Undercover Brother,Winchester,12277,Action,Comedy,11.961,86.0,5.8
 Revengers Tragedy,Metro Tartan,23750,Comedy,Drama,3.135,106.0,5.4
-The Ring,UIP,565,Horror,Mystery,47.029,115.0,6.6
+The Ring,UIP,565,Horror,Mystery,41.105,115.0,6.6
 Jackass: The Movie,UIP,9012,Comedy,Documentary,18.6,87.0,6.2
 Analyze That,Warner,9932,Comedy,Crime,14.786,96.0,5.8
-Solaris,Fox,2103,Drama,Science Fiction,11.161,99.0,5.9
+Solaris,Fox,2103,Drama,Science Fiction,9.925,99.0,5.9
 The Life of David Gale,UIP,11615,Drama,Thriller,10.864,130.0,7.4
 Equilibrium,Momentum,7299,Action,Science Fiction,19.116,107.0,7.0
-Confessions of a Dangerous Mind,BVI,4912,Comedy,Crime,9.862,113.0,6.8
+Confessions of a Dangerous Mind,BVI,4912,Comedy,Crime,11.08,113.0,6.8
 Barbershop,Fox,10611,Comedy,Drama,12.867,102.0,6.3
 Just Married,Fox,12090,Comedy,Romance,14.785,95.0,5.7
 National Security,Col/Tri,11078,Action,Comedy,14.396,88.0,5.9
 The Good Thief,Momentum,6016,Crime,Drama,5.68,108.0,6.1
 The Recruit,BVI,1647,Action,Thriller,13.991,115.0,6.4
 The Core,UIP,9341,Action,Thriller,22.994,136.0,5.7
-The Rules of Attraction,Icon,1809,Comedy,Drama,12.325,111.0,6.2
+The Rules of Attraction,Icon,1809,Comedy,Drama,9.35,111.0,6.2
 The Matrix Reloaded,Warner,604,Adventure,Action,47.197,138.0,7.0
 Kangaroo Jack,Warner,10628,Family,Comedy,27.409,89.0,5.1
 The Hot Chick,BVI,11852,Comedy,Fantasy,43.62,104.0,6.3
-Darkness Falls,Col/TriStar,10727,Thriller,Horror,18.488,86.0,5.5
+Darkness Falls,Col/TriStar,10727,Thriller,Horror,16.524,86.0,5.5
 How to Lose a Guy in 10 Days,UIP,9919,Comedy,Romance,19.815,116.0,6.7
-The Jungle Book 2,BVI,14873,Family,Animation,22.756,72.0,5.9
+The Jungle Book 2,BVI,14873,Family,Animation,19.664,72.0,5.9
 Phone Booth,20th Fox,1817,Thriller,Drama,16.77,81.0,6.8
-Secretary,Metro,11013,Comedy,Drama,18.531,104.0,6.8
+Secretary,Metro,11013,Comedy,Drama,16.281,104.0,6.8
 I Capture the Castle,Momentum,17920,Drama,Romance,5.94,113.0,7.0
 Hope Springs,BVI,82696,Drama,Comedy,15.605,100.0,6.2
-Armaan,Eros,73259,Drama,Romance,1.007,158.0,5.0
-The Actors,Momentum,33175,Comedy,Crime,4.948,91.0,6.0
-To Kill a King,Pathe,18359,Drama,Action,5.03,102.0,5.8
+Armaan,Eros,73259,Drama,Romance,1.41,158.0,5.0
+The Actors,Momentum,33175,Comedy,Crime,2.969,91.0,6.0
+To Kill a King,Pathe,18359,Drama,Action,4.986,102.0,5.8
 Extreme Ops,UIP,15074,Action,Adventure,7.552,93.0,4.8
 The Last Great Wilderness,Feature Film Co,38739,Thriller,Mystery,1.468,95.0,5.8
 Ripley's Game,Entertainment,10955,Crime,Thriller,6.804,110.0,6.4
@@ -517,52 +517,52 @@ Igby Goes Down,Optimum,9685,Comedy,Drama,8.876,97.0,6.6
 A Guy Thing,20th Fox,9582,Comedy,Romance,8.701,101.0,5.9
 I'll Be There,Warner,48967,Comedy,Drama,3.046,105.0,6.0
 Bruce Almighty,BVI,310,Fantasy,Comedy,35.522,101.0,6.7
-Nicholas Nickleby,20th Fox,29339,Adventure,Drama,9.45,132.0,6.9
-Main Prem Ki Diwani Hoon,Yash Raj,165402,Drama,Romance,3.13,197.0,5.5
+Nicholas Nickleby,20th Fox,29339,Adventure,Drama,8.919,132.0,6.9
+Main Prem Ki Diwani Hoon,Yash Raj,165402,Drama,Romance,4.341,197.0,5.5
 Biker Boyz,UIP,12253,Action,Drama,15.27,110.0,6.2
 Charlie's Angels: Full Throttle,Col/TriStar,9471,Action,Adventure,27.156,106.0,5.5
 Piglet's Big Movie,BVI,13691,Animation,Family,10.618,75.0,6.7
 Daddy Day Care,Col/TriStar,10708,Comedy,Family,17.683,92.0,5.9
 Veronica Guerin,BVI,10629,Drama,Crime,9.706,98.0,6.7
 Whale Rider,Icon,1088,Drama,Family,9.39,101.0,7.3
-The In-Laws,Warner,19827,Action,Adventure,9.47,103.0,6.7
-Buffalo Soldiers,Pathe,9104,Drama,Comedy,9.172,98.0,6.4
-Brown Sugar,20th Fox,37964,Comedy,Romance,8.861,109.0,6.7
+The In-Laws,Warner,19827,Action,Adventure,7.831,103.0,6.7
+Buffalo Soldiers,Pathe,9104,Drama,Comedy,7.877,98.0,6.4
+Brown Sugar,20th Fox,37964,Comedy,Romance,6.45,109.0,6.7
 Max,Pathe,272878,Adventure,Drama,38.11,111.0,7.1
 Agent Cody Banks,Fox,10923,Action,Adventure,16.579,102.0,5.4
 Terminator 3: Rise of the Machines,Col/TriStar,296,Action,Thriller,32.777,109.0,6.1
 Chori Chori,21st Century,25020,Drama,Comedy,2.125,135.0,6.3
-Rugrats Go Wild,UIP,20694,Family,Animation,14.736,84.0,6.2
-What a Girl Wants,Warner,10735,Comedy,Romance,19.19,105.0,6.2
+Rugrats Go Wild,UIP,20694,Family,Animation,14.961,84.0,6.2
+What a Girl Wants,Warner,10735,Comedy,Romance,17.58,105.0,6.2
 Respiro,Metro,12544,Comedy,Drama,4.652,95.0,6.6
-Confidence,Momentum,10743,Action,Comedy,7.269,97.0,6.3
+Confidence,Momentum,10743,Action,Comedy,9.091,97.0,6.3
 The Lizzie McGuire Movie,BVI,18736,Family,Comedy,12.809,94.0,6.3
 Hollywood Homicide,Col/TriStar,11375,Action,Adventure,10.031,116.0,5.3
-Tears of the Sun,Col/TriStar,9567,War,Action,37.842,121.0,6.8
-The Hard Word,Metrodome,16311,Action,Comedy,3.947,102.0,5.8
+Tears of the Sun,Col/TriStar,9567,War,Action,32.377,121.0,6.8
+The Hard Word,Metrodome,16311,Action,Comedy,4.253,102.0,5.8
 The Italian Job,UIP,9654,Action,Crime,27.242,110.0,6.7
-Le Divorce,20th Fox,9499,Comedy,Drama,9.275,117.0,5.0
+Le Divorce,20th Fox,9499,Comedy,Drama,10.642,117.0,5.0
 Raising Victor Vargas,Momentum,25461,Drama,Romance,4.566,88.0,7.5
 Once Upon a Time in Mexico,BVI,1428,Action,Drama,20.524,102.0,6.3
 Matchstick Men,Warner,7270,Comedy,Drama,9.561,116.0,7.0
-Young Adam,Warner,237,Drama,Thriller,8.301,93.0,5.9
-Ned Kelly,UIP,10544,Action,Adventure,7.141,110.0,6.0
+Young Adam,Warner,237,Drama,Thriller,6.996,93.0,5.9
+Ned Kelly,UIP,10544,Action,Adventure,8.322,110.0,6.0
 Finding Nemo,BVI,12,Animation,Family,98.136,100.0,7.8
-Baghban,Eros,155500,Drama,Documentary,1.981,87.0,5.2
+Baghban,Eros,155500,Drama,Documentary,1.481,87.0,5.2
 Spellbound,Metrodome,4174,Mystery,Thriller,10.27,111.0,7.5
-Concert for George,Pathe,28236,Music,Documentary,2.921,140.0,8.4
+Concert for George,Pathe,28236,Music,Documentary,4.089,140.0,8.4
 The League of Extraordinary Gentlemen,20th Fox,8698,Fantasy,Action,34.843,110.0,5.9
 Mystic River,Warner,322,Thriller,Crime,25.184,138.0,7.7
 Bollywood Queen,Redbus,44367,Drama,Music,1.97,89.0,6.0
 Intolerable Cruelty,UIP,11775,Crime,Comedy,14.484,100.0,5.9
 Holes,BVI,8326,Adventure,Family,9.573,117.0,6.8
-Secondhand Lions,Entertainment,13156,Family,Comedy,10.447,111.0,7.2
-The Matrix Revolutions,Warner,605,Adventure,Action,50.566,129.0,6.7
+Secondhand Lions,Entertainment,13156,Family,Comedy,9.318,111.0,7.2
+The Matrix Revolutions,Warner,605,Adventure,Action,52.186,129.0,6.7
 Seabiscuit,BVI,4464,Drama,History,11.718,141.0,7.0
 Miranda,Pathe,52212,Comedy,Romance,9.269,93.0,5.4
 The Medallion,Col/TriStar,10610,Thriller,Fantasy,18.012,88.0,5.6
 Octane,BVI,44289,Mystery,Thriller,3.12,91.0,5.3
-Spin the Bottle,BVI,44508,Romance,Comedy,3.101,83.0,6.3
+Spin the Bottle,BVI,44508,Romance,Comedy,2.456,83.0,6.3
 Timeline,Entertainment,9562,Action,Adventure,18.045,116.0,5.7
 The Fighting Temptations,UIP,22309,Comedy,Music,10.83,122.0,5.7
 Behind Enemy Lines,Fox,8007,Action,Drama,19.095,106.0,6.3
@@ -570,89 +570,89 @@ The Princess Diaries,BVI,9880,Comedy,Family,36.508,115.0,6.9
 Serendipity,BVI,9778,Comedy,Romance,17.291,90.0,6.8
 The 51st State,Momentum,1613,Thriller,Action,11.058,93.0,6.1
 The Last Castle,UIP,2100,Action,Drama,13.579,131.0,7.1
-Mulholland Drive,Pathe,1018,Thriller,Drama,23.839,147.0,7.8
-Monsoon Wedding,Film Four,480,Comedy,Drama,7.462,114.0,6.9
+Mulholland Drive,Pathe,1018,Thriller,Drama,19.527,147.0,7.8
+Monsoon Wedding,Film Four,480,Comedy,Drama,7.62,114.0,6.9
 The Others,BVI,1933,Horror,Drama,37.11,101.0,7.6
 Christmas Carol: The Movie,Pathe,35257,Animation,Family,7.798,77.0,5.1
 Beauty and the Beast,BVI,10020,Romance,Family,73.311,84.0,7.7
-The Man Who Wasn't There,Entm't,10778,Crime,Thriller,14.655,116.0,7.6
-Rat Race,Pathe,9896,Adventure,Comedy,12.703,112.0,6.2
+The Man Who Wasn't There,Entm't,10778,Crime,Thriller,14.699,116.0,7.6
+Rat Race,Pathe,9896,Adventure,Comedy,11.156,112.0,6.2
 Domestic Disturbance,UIP,11456,Mystery,Thriller,15.896,89.0,5.8
 Rock Star,Warner,12508,Music,Drama,13.993,105.0,6.7
-Soul Survivors,Momentum,14033,Horror,Mystery,8.25,84.0,4.6
+Soul Survivors,Momentum,14033,Horror,Mystery,7.739,84.0,4.6
 Last Orders,Metrodome,14778,Comedy,Drama,5.055,109.0,6.1
 Black Hawk Down,Col/Tri,855,Action,History,27.508,145.0,7.4
-Long Time Dead,UIP,27259,Horror,Thriller,13.334,94.0,5.5
-Vanilla Sky,UIP,1903,Romance,Science Fiction,25.359,136.0,6.8
-Spy Game,Entm't,1535,Action,Crime,22.26,126.0,6.9
+Long Time Dead,UIP,27259,Horror,Thriller,13.951,94.0,5.5
+Vanilla Sky,UIP,1903,Romance,Science Fiction,20.705,136.0,6.8
+Spy Game,Entm't,1535,Action,Crime,23.59,126.0,6.9
 In the Bedroom,BVI,1999,Drama,Thriller,11.926,130.0,6.9
 Shallow Hal,Fox,9889,Comedy,Romance,15.855,114.0,6.1
-Gosford Park,Entm't,5279,Drama,Mystery,14.464,131.0,6.9
+Gosford Park,Entm't,5279,Drama,Mystery,10.421,131.0,6.9
 Training Day,Warner,2034,Action,Crime,50.742,122.0,7.5
 "Monsters, Inc.",BVI,585,Animation,Comedy,150.901,92.0,7.8
-From Hell,Fox,768,Horror,Mystery,29.532,122.0,6.7
+From Hell,Fox,768,Horror,Mystery,23.431,122.0,6.7
 Just Visiting,Momentum,56715,Comedy,Fantasy,8.173,88.0,4.6
 Ocean's Eleven,Warner,161,Thriller,Crime,30.008,116.0,7.4
 Charlotte Gray,Film Four,12660,Drama,History,6.753,121.0,6.0
 A Beautiful Mind,UIP,453,Drama,Romance,29.255,135.0,7.9
-The Mothman Prophecies,Helkon SK,2637,Drama,Horror,21.104,119.0,6.2
-The Shipping News,BVI,6440,Drama,Romance,9.217,111.0,6.3
-We Were Soldiers,Icon,10590,Action,History,26.785,138.0,7.1
+The Mothman Prophecies,Helkon SK,2637,Drama,Horror,16.917,119.0,6.2
+The Shipping News,BVI,6440,Drama,Romance,10.884,111.0,6.3
+We Were Soldiers,Icon,10590,Action,History,23.269,138.0,7.1
 Hearts in Atlantis,Warner,11313,Drama,Mystery,10.554,101.0,6.6
 Ice Age,Fox,425,Animation,Comedy,121.397,81.0,7.3
 Jimmy Neutron: Boy Genius,UIP,12589,Family,Action,14.696,83.0,5.9
-The Royal Tenenbaums,BVI,9428,Comedy,Drama,21.394,110.0,7.5
-Crossroads,Momentum,15392,Drama,Music,10.438,99.0,7.3
-Collateral Damage,Warner,9884,Action,Thriller,17.638,108.0,5.7
+The Royal Tenenbaums,BVI,9428,Comedy,Drama,17.41,110.0,7.5
+Crossroads,Momentum,15392,Drama,Music,10.566,99.0,7.3
+Collateral Damage,Warner,9884,Action,Thriller,18.897,108.0,5.7
 24 Hour Party People,Pathe,2750,Comedy,Drama,9.569,117.0,7.0
 Bend It Like Beckham,Helkon SK,455,Comedy,Drama,12.115,112.0,6.3
-The One,Col/Tri,10796,Action,Science Fiction,25.358,87.0,6.1
-The Scorpion King,UIP,9334,Action,Adventure,29.971,92.0,5.5
+The One,Col/Tri,10796,Action,Science Fiction,25.455,87.0,6.1
+The Scorpion King,UIP,9334,Action,Adventure,28.997,92.0,5.5
 Roadkill,Fox,71628,Horror,Thriller,4.011,88.0,5.7
 John Q,Entm't,8470,Drama,Thriller,22.859,116.0,7.2
 Showtime,Warner,5851,Action,Comedy,9.314,95.0,5.5
-Dog Soldiers,Pathe,11880,Horror,Action,11.015,105.0,6.8
+Dog Soldiers,Pathe,11880,Horror,Action,10.903,105.0,6.8
 Slackers,Momentum,20009,Comedy,Romance,6.768,86.0,5.2
 Thunderpants,Pathe,21605,Comedy,Family,7.336,83.0,3.4
 Hart's War,Fox,10592,Drama,War,16.583,125.0,6.3
 40 Days and 40 Nights,UIP,2752,Comedy,Romance,9.41,94.0,5.5
-The Time Machine,Warner,2135,Science Fiction,Adventure,30.282,96.0,6.2
+The Time Machine,Warner,2135,Science Fiction,Adventure,25.943,96.0,6.2
 Snow Dogs,BVI,11888,Comedy,Family,14.368,99.0,5.7
 Unfaithful,Fox,2251,Thriller,Drama,36.023,124.0,6.6
-Monster's Ball,Entm't,1365,Romance,Drama,12.682,113.0,6.8
-Dragonfly,BVI,10052,Drama,Thriller,12.977,104.0,6.5
-Mere Yaar Ki Shaadi Hai,Yash Raj,139656,Comedy,Romance,4.049,158.0,5.8
-Impostor,Metrodome,4965,Action,Science Fiction,8.383,102.0,6.2
-Big Fat Liar,UIP,11870,Family,Comedy,12.765,88.0,5.9
-Birthday Girl,Film Four,2084,Comedy,Crime,9.457,93.0,5.9
-Rollerball,Col/Tri,11535,Action,Science Fiction,7.767,98.0,4.0
-Humraaz,Venus,165404,Action,Romance,2.427,173.0,6.4
-The Lawless Heart,Optimum,77283,Drama,Comedy,1.617,100.0,5.5
+Monster's Ball,Entm't,1365,Romance,Drama,12.682,113.0,6.7
+Dragonfly,BVI,10052,Drama,Thriller,11.948,104.0,6.5
+Mere Yaar Ki Shaadi Hai,Yash Raj,139656,Comedy,Romance,3.188,158.0,5.8
+Impostor,Metrodome,4965,Action,Science Fiction,8.258,102.0,6.2
+Big Fat Liar,UIP,11870,Family,Comedy,13.616,88.0,5.9
+Birthday Girl,Film Four,2084,Comedy,Crime,9.92,93.0,5.9
+Rollerball,Col/Tri,11535,Action,Science Fiction,8.916,98.0,4.0
+Humraaz,Venus,165404,Action,Romance,3.065,173.0,6.4
+The Lawless Heart,Optimum,77283,Drama,Comedy,1.294,100.0,5.5
 Scooby-Doo,Warner,9637,Mystery,Adventure,122.994,88.0,6.0
 Minority Report,Fox,180,Action,Thriller,27.908,145.0,7.3
-Resident Evil,Pathe,1576,Horror,Action,31.371,100.0,6.6
+Resident Evil,Pathe,1576,Horror,Action,28.028,100.0,6.6
 Devdas,Eros,685057,Drama,Romance,0.631,144.0,0.0
 Bad Company,BVI,3132,Action,Adventure,14.638,116.0,5.4
 No Man's Land,Momentum,34379,Action,Drama,6.637,106.0,6.0
-Stuart Little 2,Col/Tri,10996,Family,Adventure,44.355,78.0,5.7
+Stuart Little 2,Col/Tri,10996,Family,Adventure,43.804,78.0,5.7
 Jason X,Entm't,11470,Horror,Science Fiction,44.229,91.0,4.8
-The Abduction Club,Pathe,21893,Comedy,History,3.323,96.0,6.2
-Hijack Stories,Momentum,58169,Drama,Crime,0.708,0.0,5.3
+The Abduction Club,Pathe,21893,Comedy,History,3.109,96.0,6.2
+Hijack Stories,Momentum,58169,Drama,Crime,0.947,0.0,5.3
 Austin Powers in Goldmember,Entm't,818,Comedy,Crime,34.251,94.0,6.0
-Eight Legged Freaks,Warner,8869,Action,Comedy,19.521,99.0,5.7
+Eight Legged Freaks,Warner,8869,Action,Comedy,19.429,99.0,5.7
 The Wash,Metrodome,13408,Action,Comedy,6.132,93.0,5.0
 Lantana,Winchester,9523,Crime,Drama,7.297,121.0,6.6
-The Guru,UIP,9027,Comedy,Romance,10.896,91.0,5.1
+The Guru,UIP,9027,Comedy,Romance,8.385,91.0,5.1
 Black Knight,Fox,11469,Comedy,Fantasy,10.866,95.0,5.4
-Insomnia,BVI,320,Crime,Mystery,18.955,118.0,6.9
+Insomnia,BVI,320,Crime,Mystery,18.744,118.0,6.9
 The Sweetest Thing,Col/Tri,11812,Romance,Comedy,10.396,84.0,5.5
-Windtalkers,Fox,12100,War,Drama,21.706,134.0,6.1
+Windtalkers,Fox,12100,War,Drama,22.207,134.0,6.1
 Kin,Feature Film Co,874948,Crime,Drama,643.568,104.0,6.6
 The Bourne Identity,UIP,2501,Action,Drama,32.848,119.0,7.4
-Signs,BVI,2675,Drama,Thriller,29.469,106.0,6.6
-My Big Fat Greek Wedding,Entm't,8346,Comedy,Drama,13.581,95.0,6.5
+Signs,BVI,2675,Drama,Thriller,23.671,106.0,6.6
+My Big Fat Greek Wedding,Entm't,8346,Comedy,Drama,10.538,95.0,6.5
 Road to Perdition,Fox,4147,Crime,Drama,22.305,117.0,7.4
-Lilo & Stitch,BVI,11544,Animation,Family,78.756,85.0,7.5
+Lilo & Stitch,BVI,11544,Animation,Family,74.064,85.0,7.5
 One Hour Photo,Fox,9357,Drama,Thriller,16.67,96.0,6.7
 Sweet Sixteen,Icon,1376,Crime,Drama,6.705,106.0,7.0
 Red Dragon,UIP,9533,Crime,Thriller,6.903,124.0,7.0
@@ -661,47 +661,47 @@ High Crimes,Fox,11560,Drama,Mystery,12.771,115.0,6.3
 Donnie Darko,Metrodome,141,Fantasy,Drama,31.657,114.0,7.8
 Changing Lanes,UIP,1537,Crime,Thriller,10.993,99.0,6.1
 Orange County,UIP,11857,Comedy,Drama,11.4,82.0,6.1
-Halloween: Resurrection,BVI,11442,Horror,Thriller,55.896,89.0,4.7
+Halloween: Resurrection,BVI,11442,Horror,Thriller,55.896,89.0,4.6
 Super Troopers,Fox,39939,Comedy,Crime,16.22,100.0,6.6
-Rabbit-Proof Fence,BVI,9555,Adventure,Drama,7.815,94.0,7.0
+Rabbit-Proof Fence,BVI,9555,Adventure,Drama,7.923,94.0,7.0
 Two Men Went To War,Guerilla Films,47952,Comedy,War,3.362,109.0,5.5
 Mr. Deeds,Col/Tri,2022,Comedy,Romance,21.209,96.0,5.8
 My Kingdom,Metro Tartan,48767,Action,Crime,1.184,117.0,5.1
 Enough,Col/Tri,1957,Drama,Thriller,14.42,114.0,6.6
 The War Bride,Miracle Comms,41839,Drama,Romance,2.646,103.0,5.9
-Rishtey,Venus,215322,Action,Drama,1.415,156.0,4.3
-The Dancer Upstairs,Fox,20689,Crime,Drama,5.444,132.0,6.6
-All or Nothing,UGC,12454,Comedy,Drama,9.673,128.0,7.1
-Kaante,Bollywood,35907,Action,Thriller,2.654,152.0,5.7
+Rishtey,Venus,215322,Action,Drama,1.923,156.0,4.3
+The Dancer Upstairs,Fox,20689,Crime,Drama,4.948,132.0,6.6
+All or Nothing,UGC,12454,Comedy,Drama,7.802,128.0,7.1
+Kaante,Bollywood,35907,Action,Thriller,2.649,152.0,5.7
 Swordfish,WB,9705,Action,Crime,17.65,99.0,6.2
 Dr. Dolittle 2,Fox,10808,Comedy,Family,19.773,87.0,5.3
-Shrek,UIP,808,Animation,Comedy,143.776,90.0,7.7
+Shrek,UIP,808,Animation,Comedy,144.217,90.0,7.7
 High Heels and Low Lifes,BVI,10034,Action,Crime,5.198,86.0,6.4
 Intimacy,Pathe,11845,Romance,Drama,13.22,119.0,6.4
 Pearl Harbor,BVI,676,War,History,39.01,183.0,6.9
 Blow,Entm't,4133,Crime,Drama,29.36,124.0,7.4
 Rush Hour 2,Entm't,5175,Action,Comedy,41.429,90.0,6.7
 Recess: School's Out,BVI,19405,Science Fiction,Family,11.13,82.0,6.5
-The Parole Officer,UIP,32577,Crime,Comedy,8.169,93.0,5.9
+The Parole Officer,UIP,32577,Crime,Comedy,8.066,93.0,5.9
 Planet of the Apes,Fox,869,Thriller,Science Fiction,55.239,119.0,5.7
 Lara Croft: Tomb Raider,UIP,1995,Adventure,Fantasy,26.199,100.0,5.9
 Heartbreakers,Icon,10833,Comedy,Romance,12.661,123.0,6.0
-Lucky Break,FFD,35944,Action,Comedy,3.338,107.0,6.4
+Lucky Break,FFD,35944,Action,Comedy,3.062,107.0,6.4
 Josie and the Pussycats,Fox,19366,Comedy,Music,8.214,98.0,5.5
 A Knight's Tale,Col/Tri,9476,Adventure,Drama,25.38,132.0,6.9
 Angel Eyes,WB,5852,Drama,Romance,9.806,102.0,6.1
-The Martins,Icon,39783,Comedy,Drama,2.92,87.0,5.8
-Crazy/Beautiful,BVI,10691,Drama,Romance,9.041,99.0,6.6
+The Martins,Icon,39783,Comedy,Drama,2.239,87.0,5.8
+Crazy/Beautiful,BVI,10691,Drama,Romance,9.607,99.0,6.6
 Enigma,BVI,10491,Mystery,Drama,8.368,119.0,6.4
-The Score,Pathe,11371,Action,Crime,21.907,124.0,6.7
+The Score,Pathe,11371,Action,Crime,20.237,124.0,6.7
 American Desi,Eros,32222,Drama,Comedy,3.296,100.0,5.9
 American Pie 2,UIP,2770,Comedy,Romance,62.566,108.0,6.2
 The Pledge,Warner,5955,Crime,Drama,11.269,123.0,6.6
-America's Sweethearts,Col/Tri,11467,Comedy,Romance,10.717,102.0,5.7
+America's Sweethearts,Col/Tri,11467,Comedy,Romance,11.109,102.0,5.7
 Jeepers Creepers,Helkon Sk,8922,Horror,Thriller,71.187,90.0,6.4
 Kiss of the Dragon,Fox,2140,Action,Crime,22.834,98.0,6.8
 Ghost World,Icon,1548,Comedy,Drama,7.588,111.0,7.2
 Baby Boy,Col/Tri,16161,Crime,Drama,11.033,130.0,7.2
 Bandits,Fox,3172,Comedy,Crime,16.186,123.0,6.3
-Ghosts of Mars,Col/Tri,10016,Action,Horror,12.686,98.0,5.1
+Ghosts of Mars,Col/Tri,10016,Action,Horror,13.054,98.0,5.1
 The Deep End,Fox,24936,Mystery,Thriller,9.287,101.0,6.2

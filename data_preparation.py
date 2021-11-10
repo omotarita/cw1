@@ -2,8 +2,6 @@
 import pandas as pd
 import numpy as np
 import requests, json, csv, os #Reference Tessa Xie from Towards Data Science (https://towardsdatascience.com/this-tutorial-will-make-your-api-data-pull-so-much-easier-9ab4c35f9af)
-from tqdm import tqdm
-from time import sleep
 
 
 from pandas.core.frame import DataFrame
@@ -199,7 +197,7 @@ def concat_tmdb():
 
     API_key = 'd84d20a84506bc77b4408e3a43fbba95' #For safekeeping
 
-    df2 = pd.DataFrame (allMovieInfo, columns = ['Title', 'TMDB Movie ID', 'Genre 1', 'Genre 2', 'Popularity (%)', 'Runtime (minutes)', 'Average Vote'])
+    df2 = pd.DataFrame (allMovieInfo, columns = ['Title', 'TMDB Movie ID', 'Genre 1', 'Genre 2', 'Popularity', 'Runtime (minutes)', 'Average Vote (/10)'])
     df1 = pd.read_csv('prepared_BFI.csv', skiprows=0)
 
 
